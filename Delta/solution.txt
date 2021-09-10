@@ -1,0 +1,39 @@
+VECTORA(0,1,2)=-41.30,-41.30,-41.30 : GO(0)
+Pause(IDLE(0))
+Print "Ir al punto inicial completado con exito"
+Dim movzero(7)
+Dim movone(7)
+Dim movtwo(7)
+movzero(1)=6
+movone(1)=6
+movtwo(1)=6
+movzero(2)=-41.30
+movone(2)=-41.30
+movtwo(2)=-41.30
+movzero(3)=-30.92
+movone(3)=-50.06
+movtwo(3)=-48.87
+movzero(4)=-50.06
+movone(4)=-30.92
+movtwo(4)=-48.87
+movzero(5)=-55.01
+movone(5)=-36.69
+movtwo(5)=-38.01
+movzero(6)=-36.69
+movone(6)=-55.01
+movtwo(6)=-38.01
+movzero(7)=-41.30
+movone(7)=-41.30
+movtwo(7)=-41.30
+SPLINETABLE(0, movzero, Null, Null) 
+SPLINETIME(0) =   125
+SPLINE(0) = _spABSOLUTE Or _spT_ABSOLUTE
+SPLINETABLE(1, movone, Null, Null) 
+SPLINETIME(1) =   125
+SPLINE(1) = _spABSOLUTE Or _spT_ABSOLUTE
+SPLINETABLE(2, movtwo, Null, Null) 
+SPLINETIME(2) =   125
+SPLINE(2) = _spABSOLUTE Or _spT_ABSOLUTE
+GO(0,1,2)
+Pause(IDLE(0) & IDLE(1) & IDLE(2))
+Print "?Movimiento completado!"
