@@ -13,7 +13,7 @@ import os
 from pathlib import Path
 import numpy as np
 
-def genMintCode(pathStr,splinetime,reps):
+def genMintCode(pathStr,splinetime,reps,nomArchivo = None):
     p = Path(pathStr) 
     csv = str(p)
     csv_folder = str(p.parent)
@@ -23,7 +23,10 @@ def genMintCode(pathStr,splinetime,reps):
         return "OS error: {0}".format(err)
     numpos = int(np.size(TH)/3)
     TH = np.reshape(TH,[numpos,3])
-    filename = csv_folder + '\\solution.txt'
+    if nomArchivo is None: 
+        filename = csv_folder + '\\solution.txt'
+    else:
+        filename = csv_folder + '\\' + nomArchivo
     file1 = open(filename,"w")
     TH0 = TH[:,0]
     TH1 = TH[:,1]
@@ -77,7 +80,8 @@ def genMintCode(pathStr,splinetime,reps):
     print('Pause(IDLE(0) & IDLE(1) & IDLE(2))\n',end = '',file = file1);
     print('Print "?Movimiento completado!"\n',end = '',file = file1);
     file1.close()
-    return m," puntos procesados" 
+    print(m," puntos procesados")
+    return filename
     
 
 
