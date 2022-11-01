@@ -12,6 +12,8 @@
 import os
 from pathlib import Path
 import numpy as np
+import csv
+import matplotlib.pyplot as plt
 
 def genMintCode(pathStr,splinetime,reps,nomArchivo = None):
     p = Path(pathStr) 
@@ -84,14 +86,28 @@ def genMintCode(pathStr,splinetime,reps,nomArchivo = None):
     return filename
     
 
+def revisarGraficas(path):
+    with open(path) as f:
+        reader = csv.reader(f)
+        data = list(reader)
 
-# In[42]:
-
-
-# thm = np.genfromtxt('angulos.csv', delimiter=',')
-# numpos = int(np.size(thm)/3)
-# thm = np.reshape(thm,[numpos,3])
-# numpos,thm
-    
-# genMintCode(thm,25,1)
-
+    th = np.transpose(np.array(data))
+    # print(th)
+    th1v = np.array([float(x) for x in th[0][:]])
+    th2v = np.array([float(x) for x in th[1][:]])
+    th3v = np.array([float(x) for x in th[2][:]])
+    # print(th1v)
+    numpos = len(th1v)
+    # th1v
+    fig,ax = plt.subplots(figsize=(15,5))
+    ax.plot([0,numpos],[-20,-20])
+    ax.plot([0,numpos],[-85,-85])
+    ax.set_title(path)
+    ax.set_xlabel("punto de trayectoria")
+    ax.set_ylabel("posición angular [°]")
+    ax.grid()
+    ax.plot(th1v,'.r')
+    ax.plot(th2v,'.g')
+    ax.plot(th3v,'.b')
+    ax.legend(["límite sup.","límite inf.","$\\theta_1$","$\\theta_2$","$\\theta_3$"])
+    return fig,ax
