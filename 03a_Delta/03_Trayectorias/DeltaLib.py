@@ -106,8 +106,8 @@ def revisarGraficas(path):
     ax.set_xlabel("punto de trayectoria")
     ax.set_ylabel("posición angular [°]")
     ax.grid()
-    ax.plot(th1v,'.r')
-    ax.plot(th2v,'.g')
-    ax.plot(th3v,'.b')
+    ax.plot(th1v,'.r',markersize=6)
+    ax.plot(th2v,'.g',markersize=4)
+    ax.plot(th3v,'.b',markersize=2)
     ax.legend(["límite sup.","límite inf.","$\\theta_1$","$\\theta_2$","$\\theta_3$"])
     return fig,ax
