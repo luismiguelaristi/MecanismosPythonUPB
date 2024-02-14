@@ -1,0 +1,87 @@
+﻿objectid,ruta,linea,itinerario,sentido,sistema,cuenca,municipio,id_ruta,st_lengthshape
+1,C3-001,C3-001 Santa Gema - Aguacatala,C3-001 Aguacatala - Santa Gema,2,A,3,05001,1,6635.68042092316
+2,C3-001,C3-001 Santa Gema - Aguacatala,C3-001 Santa Gema - Aguacatala,1,A,3,05001,1,7034.83598477994
+3,C3-002,C3-002 Aguacatala - Bulerias,C3-002 Aguacatala,1,A,3,05001,3,7152.62430268044
+4,C3-002,C3-002 Aguacatala - Bulerias,C3-002 Bulerías Belén Rosales,2,A,3,05001,3,7479.42999682152
+5,C3-005,C3-005 Belén Aguas Frías - UDM,C3-005 Aguas Frías,2,A,3,05001,11,5096.34834500639
+6,C3-005,C3-005 Belén Aguas Frías - UDM,C3-005 Universidad de Medellín,1,A,3,05001,11,5211.32783819905
+8,C3-006,C3-006 Violetas - UDM - Villa Café,C3-006 Las Violetas Morro - UDM - Villa Café,3,A,3,05001,12,4276.86420314863
+9,C3-007,C3-007 La Palma - Loma de los Bernal,C3-007 La Palma - Loma de Los Bernal,2,A,3,05001,13,3509.92264409194
+12,C3-007,C3-007 La Palma - Loma de los Bernal,C3-007 Loma de Los Bernal - La Palma,1,A,3,05001,13,4382.30524611022
+13,C3-008,C3-008 La Serranía - Rosales,C3-008 La Serranía - Rosales,1,A,3,05001,15,3960.92302631224
+14,C3-008,C3-008 La Serranía - Rosales,C3-008 Rosales - La Serranía,2,A,3,05001,15,4248.12217938513
+15,C6-001,C6-001 Santa Rita - Estación Acevedo,C6-001 Estación Acevedo,1,A,6,05001,16,2420.66990939225
+16,C6-001,C6-001 Santa Rita - Estación Acevedo,C6-001 Zamora Santa Rita,2,A,6,05001,16,3120.29873610469
+17,C6-002,C6-002 Versalles - Estación Hospital - Punto Cero,C6-002 Punto Cero,1,A,6,05001,17,6951.4272015711
+18,C6-002,C6-002 Versalles - Estación Hospital - Punto Cero,C6-002 Versalles,2,A,6,05001,17,7142.92048617161
+20,C6-003,C6-003 Campo Valdés - Estación Hospital,C6-003 Campo Valdés,2,A,6,05001,19,4385.80975172248
+22,C6-003,C6-003 Campo Valdés - Estación Hospital,C6-003 Estación Hospital,1,A,6,05001,19,3403.56038125879
+23,C6-004,C6-004 Reserva del Seminario - Estación Exposiciones,C6-004 Estación Exposiciones,1,A,6,05001,20,6429.88016098764
+24,C6-004,C6-004 Reserva del Seminario - Estación Exposiciones,C6-004 Reserva del Seminario,2,A,6,05001,20,6754.14871654821
+25,C6-005,C6-005 Vergel - Parque San Antonio,C6-005 El Vergel,2,A,6,05001,21,5063.47949293113
+26,C6-005,C6-005 Vergel - Parque San Antonio,C6-005 Parque San Antonio,1,A,6,05001,21,5183.33561583386
+27,C6-006,C6-006 Villa Liliam - Estación Alejandro Echavarría,C6-006 Estación Alejandro Echavarría,1,A,6,05001,23,1298.33509324612
+28,C6-006,C6-006 Villa Liliam - Estación Alejandro Echavarría,C6-006 Villa Liliam,2,A,6,05001,23,1886.93323990717
+29,C6-007,C6-007 Cataluña - Parque San Antonio,C6-007 Cataluña,2,A,6,05001,24,3103.79505074641
+30,C6-007,C6-007 Cataluña - Parque San Antonio,C6-007 Parque San Antonio,1,A,6,05001,24,4163.35394994012
+31,C6-008,C6-008 La Libertad - Estación Prado,C6-008 Estación Prado,1,A,6,05001,25,3872.23076348332
+32,C6-008,C6-008 La Libertad - Estación Prado,C6-008 La Libertad,2,A,6,05001,25,5108.80131697762
+33,C6-009,C6-009 Enciso - Estación Prado,C6-009 Enciso,2,A,6,05001,26,4914.16976115608
+34,C6-009,C6-009 Enciso - Estación Prado,C6-009 Estación Prado,1,A,6,05001,26,4783.26967734093
+35,C6-010,C6-010 Villatina - Estación Parque Berrío,C6-010 Estación Parque Berrío,1,A,6,05001,27,5705.9876371459
+36,C6-010,C6-010 Villatina - Estación Parque Berrío,C6-010 Villatina,2,A,6,05001,27,7044.94440100611
+38,C6-011,C6-011 Popular N.2 - El Playón - Acevedo,C6-011 Popular N.2 - El Playón - Acevedo,3,A,6,05001,28,3938.33404020342
+39,C6-012,C6-012 La Francia - Estacion Acevedo,C6-012 Acevedo - Aranjuez - La Francia,3,A,6,05001,29,5713.28049252441
+40,C6-013,C6-013 Popular N.1 - Estación Tricentenario,C6-013 Estación Tricentenario,1,A,6,05001,31,4013.21718756026
+41,C6-013,C6-013 Popular N.1 - Estación Tricentenario,C6-013 Popular No.1,2,A,6,05001,31,4145.17556817106
+42,C6-014,C6-014 La Ladera - Prado,C6-014 La Ladera,2,A,6,05001,32,2614.37656302409
+43,C6-014,C6-014 La Ladera - Prado,C6-014 Prado,1,A,6,05001,32,2478.11040250943
+44,C6-016,C6-016 Nuevo Horizonte - Estación Hospital,C6-016 Estación Hospital,1,A,6,05001,34,6474.74349733154
+45,C6-016,C6-016 Nuevo Horizonte - Estación Hospital,C6-016 Nuevo Horizonte,2,A,6,05001,34,6147.22088494522
+46,C6-018,C6-018 Santa Cecilia N.2 - Estación Tricentenario,C6-018  Estación Tricentenario,1,A,6,05001,35,3667.98252393239
+47,C6-018,C6-018 Santa Cecilia N.2 - Estación Tricentenario,C6-018 Santa Cecilia N.2,2,A,6,05001,35,3763.73656104924
+48,C6-019,C6-019 Raizal - Parada Gardel,C6-019 Parada Gardel,1,A,6,05001,36,2202.25002945184
+49,C6-019,C6-019 Raizal - Parada Gardel,C6-019 Raizal,2,A,6,05001,36,1959.16558711472
+50,C6-020,C6-020 San José La Cima - Estación Universidad,C6-020 Estación Universidad,1,A,6,05001,38,4700.2026982062
+51,C6-020,C6-020 San José La Cima - Estación Universidad,C6-020 San José de La Cima,2,A,6,05001,38,5083.00729079216
+52,C6-021,C6-021 Granizal - Estación Tricentenario,C6-021 Estación Tricentenario,1,A,6,05001,39,3904.32884832268
+53,C6-021,C6-021 Granizal - Estación Tricentenario,C6-021 Granizal,2,A,6,05001,39,4225.13569383246
+54,C6-022,C6-022 Las Partidas - Estación Prado,C6-022 Estación Prado,1,A,6,05001,40,6348.11103078292
+55,C6-022,C6-022 Las Partidas - Estación Prado,C6-022 Las Partidas,2,A,6,05001,40,6298.21657863982
+56,C6-023,C6-023 Santa Lucía - Estación Alejandro Echavarría,C6-023 Estación Alejandro Echavarría - Santa Luc,2,A,6,05001,42,1932.92793293671
+57,C6-023,C6-023 Santa Lucía - Estación Alejandro Echavarría,C6-023 Santa Lucía - Estación Alejandro Echavarr,1,A,6,05001,42,1971.85465138032
+61,C6-024,C6-024 8 de Marzo - Estación Alejandro Echavarría,C6-024 8 de Marzo,2,A,6,05001,43,3131.42017522756
+64,C6-024,C6-024 8 de Marzo - Estación Alejandro Echavarría,C6-024 Estación Alejandro Echavarría,1,A,6,05001,43,2097.87434541505
+65,C6-025,C6-025 8 de Marzo - Estación Oriente,C6-025  8 de Marzo - Estación Oriente,1,A,6,05001,44,3167.20117652424
+66,C6-025,C6-025 8 de Marzo - Estación Oriente,C6-025 Estación Oriente - 8 de Marzo,2,A,6,05001,44,3280.20622998505
+67,C3-001A,C3-001A Los Cabos - Aguacatala,C3-001A Aguacatala - Los Cabos,2,A,3,05001,2,4961.32514208845
+68,C3-001A,C3-001A Los Cabos - Aguacatala,C3-001A Los Cabos - Aguacatala,1,A,3,05001,2,4445.34103218485
+69,C3-004B,C3-004B Altavista - Buga,C3-004B Buga,2,A,3,05001,9,5256.61040263983
+70,C3-004B,C3-004B Altavista - Buga,C3-004B Los Alpes,1,A,3,05001,9,6533.31342005935
+71,C3-007A,C3-007A Loma los Bernal - Aliadas - La Palma,C3-007A Loma los Bernal - Aliadas - La Palma,1,A,3,05001,14,3712.41171524405
+72,C3-007A,C3-007A Loma los Bernal - Aliadas - La Palma,C3-007A Loma los Bernal - Aliadas - Valbuena,2,A,3,05001,14,2852.8957452415
+73,C6-002A,C6-002A Versalles - Estación Hospital,C6-002A Estación Hospital,1,A,6,05001,18,5219.70817496605
+74,C6-002A,C6-002A Versalles - Estación Hospital,C6-002A Versalles,2,A,6,05001,18,5706.53698990033
+75,C6-005A,C6-005A Quinta Linda - Parque San Antonio,C6-005A Parque San Antonio,1,A,6,05001,22,5046.7647723651
+76,C6-005A,C6-005A Quinta Linda - Parque San Antonio,C6-005A Quinta Linda,2,A,6,05001,22,5126.90736476051
+78,C6-012A,C6-012A La Francia - Estación Acevedo,C6-012A La Francia - Estación Acevedo,3,A,6,05001,30,4135.76121154702
+80,C6-015A,C6-015A Villa de Guadalupe - Estación Hospital,C6-015A Estación Hospital,1,A,6,05001,33,4922.93307920858
+81,C6-015A,C6-015A Villa de Guadalupe - Estación Hospital,C6-015A Villa de Guadalupe,2,A,6,05001,33,5146.26824025792
+82,C6-019A,C6-019A Jardín – Parada Gardel,C6-019A Jardín,2,A,6,05001,37,2469.51666021395
+83,C6-019A,C6-019A Jardín – Parada Gardel,C6-019A Parada Gardel,1,A,6,05001,37,2401.07663971423
+84,C6-022A,C6-022A Edificios - Estación Prado,C6-022A Estación Prado,1,A,6,05001,41,6775.71156235508
+85,C6-022A,C6-022A Edificios - Estación Prado,C6-022A Los Edificios,2,A,6,05001,41,6686.4651521409
+86,C6-025B,C6-025B  Bosque Verde - Estación Oriente,C6-025B  Bosque Verde - Estación Oriente,1,A,6,05001,45,1267.81550979141
+87,C6-025B,C6-025B  Bosque Verde - Estación Oriente,C6-025B Estación Oriente - Bosque Verde,2,A,6,05001,45,1324.27352905508
+88,C3-003M,C3-003M Belén - Manzanillo,C3-003M Belén,1,A,3,05001,4,5600.01659746954
+89,C3-003M,C3-003M Belén - Manzanillo,C3-003M Manzanillo,2,A,3,05001,4,5846.80896500044
+90,C3-003P,C3-003P Belén - La Piscina,C3-003P Belén - La Piscina,2,A,3,05001,5,6534.96546573332
+91,C3-003P,C3-003P Belén - La Piscina,C3-003P La Piscina - Belén,1,A,3,05001,5,6271.24839999205
+92,C3-004P,C3-004P Altavista - La Perla,C3-004P La Perla,2,A,3,05001,10,4791.16591658447
+93,C3-004P,C3-004P Altavista - La Perla,C3-004P Los Alpes,1,A,3,05001,10,6012.75269222925
+94,C3-003RA,C3-003RA Belén - Rodeo Alto,C3-003RA Belén - Rodeo Alto,2,A,3,05001,6,4853.44995257803
+95,C3-003RA,C3-003RA Belén - Rodeo Alto,C3-003RA Rodeo Alto - Belén,1,A,3,05001,6,4717.22446547922
+96,C3-003RV,C3-003RV Belén - Rodeo Verde,C3-003RV Belén - Rodeo Verde,2,A,3,05001,8,4887.608831563
+97,C3-003RV,C3-003RV Belén - Rodeo Verde,C3-003RV Rodeo Verde - Belén,1,A,3,05001,8,4792.9868096551
+98,C3-003RLC,C3-003RLC Belén - Los Cabos,C3-003RLC Belén - Los Cabos,2,A,3,05001,7,4073.21545517928
+99,C3-003RLC,C3-003RLC Belén - Los Cabos,C3-003RLC Los Cabos - Belén,1,A,3,05001,7,3833.33348222672
