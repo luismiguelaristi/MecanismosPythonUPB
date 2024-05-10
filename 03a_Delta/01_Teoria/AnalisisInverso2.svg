@@ -8,61 +8,64 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="215.26917mm"
+   height="124.94472mm"
+   viewBox="0 0 215.26917 124.94472"
    version="1.1"
    id="svg3306"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="AnalisisInverso2.svg">
+   sodipodi:docname="AnalisisInverso2.svg"
+   inkscape:export-filename="C:\Users\LMAG\Documents\MecanismosPythonUPB\03a_Delta\01_Teoria\AnalisisInverso2.png"
+   inkscape:export-xdpi="299.93701"
+   inkscape:export-ydpi="299.93701">
   <defs
      id="defs3300">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker4279"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(1.1) rotate(180) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4277" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow2Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(1.1) rotate(180) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path1888" />
     </marker>
     <rect
        x="134.9375"
        y="104.51042"
-       width="85.044643"
-       height="20.221726"
+       width="85.04464"
+       height="20.221725"
        id="rect4243" />
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1867" />
     </marker>
   </defs>
@@ -73,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="487.49841"
-     inkscape:cy="563.58117"
+     inkscape:zoom="0.7"
+     inkscape:cx="700.99004"
+     inkscape:cy="347.78776"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -84,7 +87,12 @@
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata3303">
     <rdf:RDF>
@@ -100,7 +108,15 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-11.87609,-90.142584)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       id="rect4359"
+       width="215.26915"
+       height="124.94472"
+       x="11.87609"
+       y="90.142586" />
     <image
        width="113.83114"
        height="104.42831"
@@ -3483,7 +3499,7 @@ q8IFrOM4juM4jvOqcAHrOI7jOI7jvCr+H6fOzgNMVuk/AAAAAElFTkSuQmCC
        d="m 154.11979,159.74219 h 53.57812"
        id="path4058" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59000000000000008;stroke-dashoffset:0;stop-color:#000000;marker-start:url(#Arrow1Lstart)"
+       style="fill:none;stroke:#0000ff;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart);stop-color:#000000"
        id="path4060"
        sodipodi:type="arc"
        sodipodi:cx="154.1198"
@@ -3507,7 +3523,7 @@ q8IFrOM4juM4jvOqcAHrOI7jOI7jvCr+H6fOzgNMVuk/AAAAAElFTkSuQmCC
          y="152.46645"
          style="stroke-width:0.202997">𝜙</tspan></text>
     <path
-       style="fill:none;stroke:#ff6600;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#ff6600;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 124.54315,176.60937 81.54836,-47.05803"
        id="path4140" />
     <circle
