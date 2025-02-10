@@ -1,1027 +1,1027 @@
-0 - el paciente en rango menor de edad tiene 1,06 años
-1 - el paciente en rango mayor de edad tiene 51,87 años
-2 - el paciente en rango menor de edad tiene 5,9399999999999995 años
-3 - el paciente en rango mayor de edad tiene 38,41 años
-4 - el paciente en rango mayor de edad tiene 20,32 años
-5 - el paciente en rango mayor de edad tiene 36,99 años
+0 - el paciente en rango niño tiene 1,06 años
+1 - el paciente en rango adulto tiene 51,87 años
+2 - el paciente en rango niño tiene 5,9399999999999995 años
+3 - el paciente en rango adulto tiene 38,41 años
+4 - el paciente en rango adulto tiene 20,32 años
+5 - el paciente en rango adulto tiene 36,99 años
 6 - el paciente en rango adulto mayor tiene 86,63 años
-7 - el paciente en rango mayor de edad tiene 24,3 años
+7 - el paciente en rango adulto tiene 24,3 años
 8 - el paciente en rango adulto mayor tiene 85,89 años
 9 - el paciente en rango adulto mayor tiene 81,21 años
-10 - el paciente en rango mayor de edad tiene 42,56 años
-11 - el paciente en rango mayor de edad tiene 44,38 años
+10 - el paciente en rango adulto tiene 42,56 años
+11 - el paciente en rango adulto tiene 44,38 años
 12 - el paciente en rango adulto mayor tiene 90,85 años
 13 - el paciente en rango adulto mayor tiene 62,01 años
 14 - el paciente en rango adulto mayor tiene 87,35 años
-15 - el paciente en rango mayor de edad tiene 56,88 años
-16 - el paciente en rango menor de edad tiene 2,8 años
-17 - el paciente en rango mayor de edad tiene 44,86 años
+15 - el paciente en rango adulto tiene 56,88 años
+16 - el paciente en rango niño tiene 2,8 años
+17 - el paciente en rango adulto tiene 44,86 años
 18 - el paciente en rango adulto mayor tiene 76,51 años
-19 - el paciente en rango menor de edad tiene 0,91 años
+19 - el paciente en rango niño tiene 0,91 años
 20 - el paciente en rango adulto mayor tiene 60,67 años
-21 - el paciente en rango menor de edad tiene 1,8199999999999998 años
-22 - el paciente en rango menor de edad tiene 12,76 años
+21 - el paciente en rango niño tiene 1,8199999999999998 años
+22 - el paciente en rango niño tiene 12,76 años
 23 - el paciente en rango adulto mayor tiene 79,3 años
-24 - el paciente en rango menor de edad tiene 5,18 años
-25 - el paciente en rango menor de edad tiene 0,66 años
+24 - el paciente en rango niño tiene 5,18 años
+25 - el paciente en rango niño tiene 0,66 años
 26 - el paciente en rango adulto mayor tiene 95,11 años
-27 - el paciente en rango mayor de edad tiene 22,99 años
-28 - el paciente en rango menor de edad tiene 2,7 años
-29 - el paciente en rango menor de edad tiene 16,22 años
-30 - el paciente en rango menor de edad tiene 5,15 años
-31 - el paciente en rango menor de edad tiene 12,75 años
-32 - el paciente en rango menor de edad tiene 7,03 años
+27 - el paciente en rango adulto tiene 22,99 años
+28 - el paciente en rango niño tiene 2,7 años
+29 - el paciente en rango niño tiene 16,22 años
+30 - el paciente en rango niño tiene 5,15 años
+31 - el paciente en rango niño tiene 12,75 años
+32 - el paciente en rango niño tiene 7,03 años
 33 - el paciente en rango adulto mayor tiene 74,87 años
 34 - el paciente en rango adulto mayor tiene 96,13 años
-35 - el paciente en rango mayor de edad tiene 31,18 años
+35 - el paciente en rango adulto tiene 31,18 años
 36 - el paciente en rango adulto mayor tiene 62,96 años
-37 - el paciente en rango menor de edad tiene 5,93 años
+37 - el paciente en rango niño tiene 5,93 años
 38 - el paciente en rango adulto mayor tiene 67,76 años
-39 - el paciente en rango menor de edad tiene 15,93 años
+39 - el paciente en rango niño tiene 15,93 años
 40 - el paciente en rango adulto mayor tiene 67,59 años
-41 - el paciente en rango mayor de edad tiene 30,93 años
-42 - el paciente en rango menor de edad tiene 0,39 años
+41 - el paciente en rango adulto tiene 30,93 años
+42 - el paciente en rango niño tiene 0,39 años
 43 - el paciente en rango adulto mayor tiene 92,12 años
-44 - el paciente en rango mayor de edad tiene 54,49 años
-45 - el paciente en rango menor de edad tiene 12,6 años
+44 - el paciente en rango adulto tiene 54,49 años
+45 - el paciente en rango niño tiene 12,6 años
 46 - el paciente en rango adulto mayor tiene 82,22 años
 47 - el paciente en rango adulto mayor tiene 64,32 años
-48 - el paciente en rango mayor de edad tiene 42,79 años
-49 - el paciente en rango menor de edad tiene 7,8 años
+48 - el paciente en rango adulto tiene 42,79 años
+49 - el paciente en rango niño tiene 7,8 años
 50 - el paciente en rango adulto mayor tiene 65,61 años
 51 - el paciente en rango adulto mayor tiene 72,81 años
 52 - el paciente en rango adulto mayor tiene 73,41 años
-53 - el paciente en rango mayor de edad tiene 31,67 años
+53 - el paciente en rango adulto tiene 31,67 años
 54 - el paciente en rango adulto mayor tiene 75,59 años
-55 - el paciente en rango mayor de edad tiene 56,11 años
-56 - el paciente en rango menor de edad tiene 12,6 años
+55 - el paciente en rango adulto tiene 56,11 años
+56 - el paciente en rango niño tiene 12,6 años
 57 - el paciente en rango adulto mayor tiene 81,5 años
-58 - el paciente en rango mayor de edad tiene 30,88 años
-59 - el paciente en rango menor de edad tiene 6,76 años
+58 - el paciente en rango adulto tiene 30,88 años
+59 - el paciente en rango niño tiene 6,76 años
 60 - el paciente en rango adulto mayor tiene 88,21 años
-61 - el paciente en rango menor de edad tiene 13,89 años
-62 - el paciente en rango mayor de edad tiene 42,3 años
+61 - el paciente en rango niño tiene 13,89 años
+62 - el paciente en rango adulto tiene 42,3 años
 63 - el paciente en rango adulto mayor tiene 68,71 años
-64 - el paciente en rango menor de edad tiene 3,41 años
-65 - el paciente en rango mayor de edad tiene 30,46 años
-66 - el paciente en rango menor de edad tiene 10,38 años
+64 - el paciente en rango niño tiene 3,41 años
+65 - el paciente en rango adulto tiene 30,46 años
+66 - el paciente en rango niño tiene 10,38 años
 67 - el paciente en rango adulto mayor tiene 93,54 años
-68 - el paciente en rango menor de edad tiene 5,7 años
-69 - el paciente en rango mayor de edad tiene 48,5 años
+68 - el paciente en rango niño tiene 5,7 años
+69 - el paciente en rango adulto tiene 48,5 años
 70 - el paciente en rango adulto mayor tiene 96,01 años
-71 - el paciente en rango menor de edad tiene 7,47 años
+71 - el paciente en rango niño tiene 7,47 años
 72 - el paciente en rango adulto mayor tiene 71,86 años
-73 - el paciente en rango menor de edad tiene 3,83 años
-74 - el paciente en rango mayor de edad tiene 32,29 años
+73 - el paciente en rango niño tiene 3,83 años
+74 - el paciente en rango adulto tiene 32,29 años
 75 - el paciente en rango adulto mayor tiene 82,66 años
 76 - el paciente en rango adulto mayor tiene 82,6 años
 77 - el paciente en rango adulto mayor tiene 75,03 años
-78 - el paciente en rango menor de edad tiene 10,69 años
+78 - el paciente en rango niño tiene 10,69 años
 79 - el paciente en rango adulto mayor tiene 74,59 años
-80 - el paciente en rango menor de edad tiene 7,84 años
+80 - el paciente en rango niño tiene 7,84 años
 81 - el paciente en rango adulto mayor tiene 84,93 años
-82 - el paciente en rango menor de edad tiene 1,11 años
+82 - el paciente en rango niño tiene 1,11 años
 83 - el paciente en rango adulto mayor tiene 74,29 años
 84 - el paciente en rango adulto mayor tiene 62,73 años
 85 - el paciente en rango adulto mayor tiene 86,58 años
-86 - el paciente en rango mayor de edad tiene 22,33 años
-87 - el paciente en rango mayor de edad tiene 57,29 años
+86 - el paciente en rango adulto tiene 22,33 años
+87 - el paciente en rango adulto tiene 57,29 años
 88 - el paciente en rango adulto mayor tiene 81,12 años
-89 - el paciente en rango menor de edad tiene 12,01 años
+89 - el paciente en rango niño tiene 12,01 años
 90 - el paciente en rango adulto mayor tiene 98,95 años
-91 - el paciente en rango menor de edad tiene 3,17 años
-92 - el paciente en rango mayor de edad tiene 27,17 años
-93 - el paciente en rango menor de edad tiene 3,7199999999999998 años
-94 - el paciente en rango mayor de edad tiene 24,75 años
-95 - el paciente en rango mayor de edad tiene 56,8 años
+91 - el paciente en rango niño tiene 3,17 años
+92 - el paciente en rango adulto tiene 27,17 años
+93 - el paciente en rango niño tiene 3,7199999999999998 años
+94 - el paciente en rango adulto tiene 24,75 años
+95 - el paciente en rango adulto tiene 56,8 años
 96 - el paciente en rango adulto mayor tiene 72,71 años
-97 - el paciente en rango mayor de edad tiene 36,16 años
+97 - el paciente en rango adulto tiene 36,16 años
 98 - el paciente en rango adulto mayor tiene 74,05 años
-99 - el paciente en rango menor de edad tiene 5,31 años
-100 - el paciente en rango mayor de edad tiene 47,37 años
-101 - el paciente en rango menor de edad tiene 14,35 años
+99 - el paciente en rango niño tiene 5,31 años
+100 - el paciente en rango adulto tiene 47,37 años
+101 - el paciente en rango niño tiene 14,35 años
 102 - el paciente en rango adulto mayor tiene 96,66 años
-103 - el paciente en rango mayor de edad tiene 18,96 años
-104 - el paciente en rango menor de edad tiene 12,31 años
-105 - el paciente en rango menor de edad tiene 5,71 años
+103 - el paciente en rango adulto tiene 18,96 años
+104 - el paciente en rango niño tiene 12,31 años
+105 - el paciente en rango niño tiene 5,71 años
 106 - el paciente en rango adulto mayor tiene 69,46 años
-107 - el paciente en rango mayor de edad tiene 34,25 años
+107 - el paciente en rango adulto tiene 34,25 años
 108 - el paciente en rango adulto mayor tiene 66,74 años
-109 - el paciente en rango menor de edad tiene 6,8 años
-110 - el paciente en rango mayor de edad tiene 53,59 años
-111 - el paciente en rango menor de edad tiene 8,76 años
+109 - el paciente en rango niño tiene 6,8 años
+110 - el paciente en rango adulto tiene 53,59 años
+111 - el paciente en rango niño tiene 8,76 años
 112 - el paciente en rango adulto mayor tiene 88,19 años
-113 - el paciente en rango menor de edad tiene 10,42 años
-114 - el paciente en rango menor de edad tiene 10,43 años
+113 - el paciente en rango niño tiene 10,42 años
+114 - el paciente en rango niño tiene 10,43 años
 115 - el paciente en rango adulto mayor tiene 87,22 años
 116 - el paciente en rango adulto mayor tiene 91,75 años
 117 - el paciente en rango adulto mayor tiene 89,28 años
 118 - el paciente en rango adulto mayor tiene 90,72 años
 119 - el paciente en rango adulto mayor tiene 80,22 años
 120 - el paciente en rango adulto mayor tiene 88,47 años
-121 - el paciente en rango menor de edad tiene 7,8100000000000005 años
-122 - el paciente en rango menor de edad tiene 5,17 años
-123 - el paciente en rango menor de edad tiene 1,13 años
-124 - el paciente en rango mayor de edad tiene 19,22 años
+121 - el paciente en rango niño tiene 7,8100000000000005 años
+122 - el paciente en rango niño tiene 5,17 años
+123 - el paciente en rango niño tiene 1,13 años
+124 - el paciente en rango adulto tiene 19,22 años
 125 - el paciente en rango adulto mayor tiene 95,84 años
-126 - el paciente en rango mayor de edad tiene 42,0 años
-127 - el paciente en rango menor de edad tiene 10,25 años
+126 - el paciente en rango adulto tiene 42,0 años
+127 - el paciente en rango niño tiene 10,25 años
 128 - el paciente en rango adulto mayor tiene 62,67 años
-129 - el paciente en rango menor de edad tiene 4,68 años
+129 - el paciente en rango niño tiene 4,68 años
 130 - el paciente en rango adulto mayor tiene 84,43 años
-131 - el paciente en rango mayor de edad tiene 44,81 años
-132 - el paciente en rango mayor de edad tiene 38,8 años
-133 - el paciente en rango mayor de edad tiene 32,67 años
-134 - el paciente en rango mayor de edad tiene 38,38 años
-135 - el paciente en rango menor de edad tiene 13,22 años
-136 - el paciente en rango mayor de edad tiene 41,65 años
-137 - el paciente en rango mayor de edad tiene 54,76 años
+131 - el paciente en rango adulto tiene 44,81 años
+132 - el paciente en rango adulto tiene 38,8 años
+133 - el paciente en rango adulto tiene 32,67 años
+134 - el paciente en rango adulto tiene 38,38 años
+135 - el paciente en rango niño tiene 13,22 años
+136 - el paciente en rango adulto tiene 41,65 años
+137 - el paciente en rango adulto tiene 54,76 años
 138 - el paciente en rango adulto mayor tiene 64,94 años
-139 - el paciente en rango menor de edad tiene 0,45 años
-140 - el paciente en rango mayor de edad tiene 27,36 años
+139 - el paciente en rango niño tiene 0,45 años
+140 - el paciente en rango adulto tiene 27,36 años
 141 - el paciente en rango adulto mayor tiene 90,91 años
-142 - el paciente en rango menor de edad tiene 6,42 años
+142 - el paciente en rango niño tiene 6,42 años
 143 - el paciente en rango adulto mayor tiene 61,44 años
-144 - el paciente en rango mayor de edad tiene 50,9 años
-145 - el paciente en rango mayor de edad tiene 39,62 años
-146 - el paciente en rango menor de edad tiene 0,74 años
-147 - el paciente en rango menor de edad tiene 15,77 años
-148 - el paciente en rango menor de edad tiene 4,05 años
-149 - el paciente en rango mayor de edad tiene 28,5 años
-150 - el paciente en rango menor de edad tiene 7,28 años
-151 - el paciente en rango mayor de edad tiene 40,65 años
+144 - el paciente en rango adulto tiene 50,9 años
+145 - el paciente en rango adulto tiene 39,62 años
+146 - el paciente en rango niño tiene 0,74 años
+147 - el paciente en rango niño tiene 15,77 años
+148 - el paciente en rango niño tiene 4,05 años
+149 - el paciente en rango adulto tiene 28,5 años
+150 - el paciente en rango niño tiene 7,28 años
+151 - el paciente en rango adulto tiene 40,65 años
 152 - el paciente en rango adulto mayor tiene 60,4 años
-153 - el paciente en rango menor de edad tiene 11,96 años
-154 - el paciente en rango mayor de edad tiene 57,62 años
+153 - el paciente en rango niño tiene 11,96 años
+154 - el paciente en rango adulto tiene 57,62 años
 155 - el paciente en rango adulto mayor tiene 78,61 años
 156 - el paciente en rango adulto mayor tiene 80,54 años
-157 - el paciente en rango mayor de edad tiene 23,69 años
+157 - el paciente en rango adulto tiene 23,69 años
 158 - el paciente en rango adulto mayor tiene 73,2 años
 159 - el paciente en rango adulto mayor tiene 81,27 años
-160 - el paciente en rango menor de edad tiene 5,86 años
+160 - el paciente en rango niño tiene 5,86 años
 161 - el paciente en rango adulto mayor tiene 91,99 años
 162 - el paciente en rango adulto mayor tiene 84,04 años
 163 - el paciente en rango adulto mayor tiene 76,94 años
-164 - el paciente en rango menor de edad tiene 7,68 años
+164 - el paciente en rango niño tiene 7,68 años
 165 - el paciente en rango adulto mayor tiene 84,24 años
 166 - el paciente en rango adulto mayor tiene 76,75 años
 167 - el paciente en rango adulto mayor tiene 89,37 años
-168 - el paciente en rango mayor de edad tiene 40,03 años
-169 - el paciente en rango mayor de edad tiene 55,69 años
-170 - el paciente en rango menor de edad tiene 6,18 años
+168 - el paciente en rango adulto tiene 40,03 años
+169 - el paciente en rango adulto tiene 55,69 años
+170 - el paciente en rango niño tiene 6,18 años
 171 - el paciente en rango adulto mayor tiene 71,86 años
 172 - el paciente en rango adulto mayor tiene 79,17 años
-173 - el paciente en rango mayor de edad tiene 45,58 años
-174 - el paciente en rango mayor de edad tiene 38,66 años
-175 - el paciente en rango mayor de edad tiene 35,78 años
-176 - el paciente en rango mayor de edad tiene 32,65 años
-177 - el paciente en rango mayor de edad tiene 46,71 años
-178 - el paciente en rango mayor de edad tiene 25,01 años
+173 - el paciente en rango adulto tiene 45,58 años
+174 - el paciente en rango adulto tiene 38,66 años
+175 - el paciente en rango adulto tiene 35,78 años
+176 - el paciente en rango adulto tiene 32,65 años
+177 - el paciente en rango adulto tiene 46,71 años
+178 - el paciente en rango adulto tiene 25,01 años
 179 - el paciente en rango adulto mayor tiene 73,33 años
-180 - el paciente en rango mayor de edad tiene 49,82 años
-181 - el paciente en rango menor de edad tiene 6,7 años
-182 - el paciente en rango menor de edad tiene 14,19 años
-183 - el paciente en rango menor de edad tiene 14,54 años
-184 - el paciente en rango menor de edad tiene 7,14 años
-185 - el paciente en rango mayor de edad tiene 21,52 años
-186 - el paciente en rango mayor de edad tiene 37,26 años
+180 - el paciente en rango adulto tiene 49,82 años
+181 - el paciente en rango niño tiene 6,7 años
+182 - el paciente en rango niño tiene 14,19 años
+183 - el paciente en rango niño tiene 14,54 años
+184 - el paciente en rango niño tiene 7,14 años
+185 - el paciente en rango adulto tiene 21,52 años
+186 - el paciente en rango adulto tiene 37,26 años
 187 - el paciente en rango adulto mayor tiene 80,67 años
-188 - el paciente en rango menor de edad tiene 4,57 años
-189 - el paciente en rango mayor de edad tiene 29,5 años
+188 - el paciente en rango niño tiene 4,57 años
+189 - el paciente en rango adulto tiene 29,5 años
 190 - el paciente en rango adulto mayor tiene 78,13 años
 191 - el paciente en rango adulto mayor tiene 93,94 años
 192 - el paciente en rango adulto mayor tiene 80,0 años
-193 - el paciente en rango mayor de edad tiene 46,35 años
+193 - el paciente en rango adulto tiene 46,35 años
 194 - el paciente en rango adulto mayor tiene 66,77 años
 195 - el paciente en rango adulto mayor tiene 82,43 años
 196 - el paciente en rango adulto mayor tiene 61,66 años
 197 - el paciente en rango adulto mayor tiene 70,42 años
-198 - el paciente en rango mayor de edad tiene 32,72 años
-199 - el paciente en rango mayor de edad tiene 52,34 años
-200 - el paciente en rango mayor de edad tiene 58,74 años
-201 - el paciente en rango menor de edad tiene 3,86 años
+198 - el paciente en rango adulto tiene 32,72 años
+199 - el paciente en rango adulto tiene 52,34 años
+200 - el paciente en rango adulto tiene 58,74 años
+201 - el paciente en rango niño tiene 3,86 años
 202 - el paciente en rango adulto mayor tiene 61,76 años
 203 - el paciente en rango adulto mayor tiene 63,91 años
-204 - el paciente en rango mayor de edad tiene 37,61 años
-205 - el paciente en rango mayor de edad tiene 57,8 años
-206 - el paciente en rango mayor de edad tiene 50,13 años
-207 - el paciente en rango menor de edad tiene 13,09 años
-208 - el paciente en rango menor de edad tiene 1,79 años
-209 - el paciente en rango menor de edad tiene 14,12 años
+204 - el paciente en rango adulto tiene 37,61 años
+205 - el paciente en rango adulto tiene 57,8 años
+206 - el paciente en rango adulto tiene 50,13 años
+207 - el paciente en rango niño tiene 13,09 años
+208 - el paciente en rango niño tiene 1,79 años
+209 - el paciente en rango niño tiene 14,12 años
 210 - el paciente en rango adulto mayor tiene 88,17 años
-211 - el paciente en rango menor de edad tiene 5,48 años
-212 - el paciente en rango mayor de edad tiene 24,18 años
+211 - el paciente en rango niño tiene 5,48 años
+212 - el paciente en rango adulto tiene 24,18 años
 213 - el paciente en rango adulto mayor tiene 68,11 años
-214 - el paciente en rango menor de edad tiene 1,35 años
+214 - el paciente en rango niño tiene 1,35 años
 215 - el paciente en rango adulto mayor tiene 80,45 años
-216 - el paciente en rango menor de edad tiene 14,58 años
-217 - el paciente en rango menor de edad tiene 6,31 años
-218 - el paciente en rango menor de edad tiene 5,5 años
+216 - el paciente en rango niño tiene 14,58 años
+217 - el paciente en rango niño tiene 6,31 años
+218 - el paciente en rango niño tiene 5,5 años
 219 - el paciente en rango adulto mayor tiene 83,87 años
-220 - el paciente en rango mayor de edad tiene 36,13 años
-221 - el paciente en rango menor de edad tiene 0,95 años
-222 - el paciente en rango mayor de edad tiene 32,18 años
-223 - el paciente en rango mayor de edad tiene 38,47 años
+220 - el paciente en rango adulto tiene 36,13 años
+221 - el paciente en rango niño tiene 0,95 años
+222 - el paciente en rango adulto tiene 32,18 años
+223 - el paciente en rango adulto tiene 38,47 años
 224 - el paciente en rango adulto mayor tiene 66,57 años
-225 - el paciente en rango menor de edad tiene 6,71 años
-226 - el paciente en rango mayor de edad tiene 42,67 años
+225 - el paciente en rango niño tiene 6,71 años
+226 - el paciente en rango adulto tiene 42,67 años
 227 - el paciente en rango adulto mayor tiene 88,13 años
 228 - el paciente en rango adulto mayor tiene 76,52 años
-229 - el paciente en rango mayor de edad tiene 31,79 años
-230 - el paciente en rango mayor de edad tiene 53,11 años
-231 - el paciente en rango mayor de edad tiene 45,33 años
+229 - el paciente en rango adulto tiene 31,79 años
+230 - el paciente en rango adulto tiene 53,11 años
+231 - el paciente en rango adulto tiene 45,33 años
 232 - el paciente en rango adulto mayor tiene 66,94 años
-233 - el paciente en rango mayor de edad tiene 49,88 años
+233 - el paciente en rango adulto tiene 49,88 años
 234 - el paciente en rango adulto mayor tiene 90,2 años
 235 - el paciente en rango adulto mayor tiene 72,2 años
 236 - el paciente en rango adulto mayor tiene 63,74 años
-237 - el paciente en rango menor de edad tiene 9,52 años
+237 - el paciente en rango niño tiene 9,52 años
 238 - el paciente en rango adulto mayor tiene 96,76 años
-239 - el paciente en rango menor de edad tiene 11,26 años
+239 - el paciente en rango niño tiene 11,26 años
 240 - el paciente en rango adulto mayor tiene 83,22 años
 241 - el paciente en rango adulto mayor tiene 62,46 años
-242 - el paciente en rango mayor de edad tiene 37,75 años
+242 - el paciente en rango adulto tiene 37,75 años
 243 - el paciente en rango adulto mayor tiene 69,87 años
-244 - el paciente en rango mayor de edad tiene 44,56 años
-245 - el paciente en rango menor de edad tiene 14,07 años
+244 - el paciente en rango adulto tiene 44,56 años
+245 - el paciente en rango niño tiene 14,07 años
 246 - el paciente en rango adulto mayor tiene 90,45 años
-247 - el paciente en rango menor de edad tiene 16,17 años
-248 - el paciente en rango mayor de edad tiene 46,67 años
-249 - el paciente en rango menor de edad tiene 4,31 años
-250 - el paciente en rango mayor de edad tiene 21,89 años
+247 - el paciente en rango niño tiene 16,17 años
+248 - el paciente en rango adulto tiene 46,67 años
+249 - el paciente en rango niño tiene 4,31 años
+250 - el paciente en rango adulto tiene 21,89 años
 251 - el paciente en rango adulto mayor tiene 84,41 años
 252 - el paciente en rango adulto mayor tiene 73,74 años
 253 - el paciente en rango adulto mayor tiene 78,62 años
 254 - el paciente en rango adulto mayor tiene 72,66 años
-255 - el paciente en rango menor de edad tiene 13,44 años
+255 - el paciente en rango niño tiene 13,44 años
 256 - el paciente en rango adulto mayor tiene 84,87 años
 257 - el paciente en rango adulto mayor tiene 83,37 años
 258 - el paciente en rango adulto mayor tiene 86,17 años
 259 - el paciente en rango adulto mayor tiene 86,99 años
-260 - el paciente en rango mayor de edad tiene 54,46 años
-261 - el paciente en rango mayor de edad tiene 43,33 años
+260 - el paciente en rango adulto tiene 54,46 años
+261 - el paciente en rango adulto tiene 43,33 años
 262 - el paciente en rango adulto mayor tiene 89,31 años
-263 - el paciente en rango mayor de edad tiene 18,98 años
+263 - el paciente en rango adulto tiene 18,98 años
 264 - el paciente en rango adulto mayor tiene 63,39 años
 265 - el paciente en rango adulto mayor tiene 68,88 años
 266 - el paciente en rango adulto mayor tiene 98,74 años
-267 - el paciente en rango mayor de edad tiene 57,21 años
-268 - el paciente en rango mayor de edad tiene 37,09 años
-269 - el paciente en rango menor de edad tiene 6,9 años
+267 - el paciente en rango adulto tiene 57,21 años
+268 - el paciente en rango adulto tiene 37,09 años
+269 - el paciente en rango niño tiene 6,9 años
 270 - el paciente en rango adulto mayor tiene 67,71 años
-271 - el paciente en rango mayor de edad tiene 29,87 años
-272 - el paciente en rango menor de edad tiene 8,78 años
-273 - el paciente en rango menor de edad tiene 7,54 años
-274 - el paciente en rango menor de edad tiene 3,35 años
-275 - el paciente en rango menor de edad tiene 15,29 años
+271 - el paciente en rango adulto tiene 29,87 años
+272 - el paciente en rango niño tiene 8,78 años
+273 - el paciente en rango niño tiene 7,54 años
+274 - el paciente en rango niño tiene 3,35 años
+275 - el paciente en rango niño tiene 15,29 años
 276 - el paciente en rango adulto mayor tiene 75,05 años
-277 - el paciente en rango menor de edad tiene 0,94 años
-278 - el paciente en rango menor de edad tiene 16,29 años
-279 - el paciente en rango menor de edad tiene 1,96 años
+277 - el paciente en rango niño tiene 0,94 años
+278 - el paciente en rango niño tiene 16,29 años
+279 - el paciente en rango niño tiene 1,96 años
 280 - el paciente en rango adulto mayor tiene 99,67 años
-281 - el paciente en rango menor de edad tiene 1,75 años
-282 - el paciente en rango mayor de edad tiene 29,35 años
-283 - el paciente en rango mayor de edad tiene 46,95 años
-284 - el paciente en rango mayor de edad tiene 40,64 años
+281 - el paciente en rango niño tiene 1,75 años
+282 - el paciente en rango adulto tiene 29,35 años
+283 - el paciente en rango adulto tiene 46,95 años
+284 - el paciente en rango adulto tiene 40,64 años
 285 - el paciente en rango adulto mayor tiene 65,88 años
 286 - el paciente en rango adulto mayor tiene 96,82 años
-287 - el paciente en rango mayor de edad tiene 25,76 años
-288 - el paciente en rango menor de edad tiene 6,88 años
-289 - el paciente en rango mayor de edad tiene 27,25 años
-290 - el paciente en rango mayor de edad tiene 31,52 años
-291 - el paciente en rango mayor de edad tiene 54,2 años
-292 - el paciente en rango menor de edad tiene 14,8 años
+287 - el paciente en rango adulto tiene 25,76 años
+288 - el paciente en rango niño tiene 6,88 años
+289 - el paciente en rango adulto tiene 27,25 años
+290 - el paciente en rango adulto tiene 31,52 años
+291 - el paciente en rango adulto tiene 54,2 años
+292 - el paciente en rango niño tiene 14,8 años
 293 - el paciente en rango adulto mayor tiene 64,94 años
 294 - el paciente en rango adulto mayor tiene 97,94 años
 295 - el paciente en rango adulto mayor tiene 90,82 años
-296 - el paciente en rango mayor de edad tiene 41,67 años
-297 - el paciente en rango mayor de edad tiene 58,45 años
+296 - el paciente en rango adulto tiene 41,67 años
+297 - el paciente en rango adulto tiene 58,45 años
 298 - el paciente en rango adulto mayor tiene 77,52 años
-299 - el paciente en rango menor de edad tiene 7,65 años
+299 - el paciente en rango niño tiene 7,65 años
 300 - el paciente en rango adulto mayor tiene 85,84 años
-301 - el paciente en rango menor de edad tiene 10,56 años
-302 - el paciente en rango mayor de edad tiene 42,41 años
+301 - el paciente en rango niño tiene 10,56 años
+302 - el paciente en rango adulto tiene 42,41 años
 303 - el paciente en rango adulto mayor tiene 77,67 años
-304 - el paciente en rango mayor de edad tiene 41,96 años
-305 - el paciente en rango menor de edad tiene 6,68 años
-306 - el paciente en rango menor de edad tiene 4,89 años
-307 - el paciente en rango menor de edad tiene 1,21 años
-308 - el paciente en rango mayor de edad tiene 20,13 años
-309 - el paciente en rango menor de edad tiene 15,34 años
-310 - el paciente en rango mayor de edad tiene 29,31 años
-311 - el paciente en rango mayor de edad tiene 31,07 años
+304 - el paciente en rango adulto tiene 41,96 años
+305 - el paciente en rango niño tiene 6,68 años
+306 - el paciente en rango niño tiene 4,89 años
+307 - el paciente en rango niño tiene 1,21 años
+308 - el paciente en rango adulto tiene 20,13 años
+309 - el paciente en rango niño tiene 15,34 años
+310 - el paciente en rango adulto tiene 29,31 años
+311 - el paciente en rango adulto tiene 31,07 años
 312 - el paciente en rango adulto mayor tiene 84,76 años
-313 - el paciente en rango menor de edad tiene 11,13 años
-314 - el paciente en rango menor de edad tiene 3,42 años
-315 - el paciente en rango mayor de edad tiene 53,65 años
+313 - el paciente en rango niño tiene 11,13 años
+314 - el paciente en rango niño tiene 3,42 años
+315 - el paciente en rango adulto tiene 53,65 años
 316 - el paciente en rango adulto mayor tiene 93,85 años
-317 - el paciente en rango mayor de edad tiene 52,28 años
-318 - el paciente en rango mayor de edad tiene 38,49 años
-319 - el paciente en rango mayor de edad tiene 48,23 años
-320 - el paciente en rango menor de edad tiene 4,28 años
+317 - el paciente en rango adulto tiene 52,28 años
+318 - el paciente en rango adulto tiene 38,49 años
+319 - el paciente en rango adulto tiene 48,23 años
+320 - el paciente en rango niño tiene 4,28 años
 321 - el paciente en rango adulto mayor tiene 82,69 años
 322 - el paciente en rango adulto mayor tiene 99,91 años
-323 - el paciente en rango menor de edad tiene 15,86 años
-324 - el paciente en rango menor de edad tiene 6,88 años
+323 - el paciente en rango niño tiene 15,86 años
+324 - el paciente en rango niño tiene 6,88 años
 325 - el paciente en rango adulto mayor tiene 61,34 años
-326 - el paciente en rango menor de edad tiene 14,97 años
-327 - el paciente en rango menor de edad tiene 1,58 años
-328 - el paciente en rango mayor de edad tiene 53,9 años
+326 - el paciente en rango niño tiene 14,97 años
+327 - el paciente en rango niño tiene 1,58 años
+328 - el paciente en rango adulto tiene 53,9 años
 329 - el paciente en rango adulto mayor tiene 74,16 años
 330 - el paciente en rango adulto mayor tiene 90,9 años
 331 - el paciente en rango adulto mayor tiene 93,44 años
 332 - el paciente en rango adulto mayor tiene 61,53 años
-333 - el paciente en rango menor de edad tiene 0,04 años
-334 - el paciente en rango menor de edad tiene 10,9 años
-335 - el paciente en rango menor de edad tiene 8,41 años
-336 - el paciente en rango mayor de edad tiene 47,42 años
-337 - el paciente en rango menor de edad tiene 11,77 años
+333 - el paciente en rango niño tiene 0,04 años
+334 - el paciente en rango niño tiene 10,9 años
+335 - el paciente en rango niño tiene 8,41 años
+336 - el paciente en rango adulto tiene 47,42 años
+337 - el paciente en rango niño tiene 11,77 años
 338 - el paciente en rango adulto mayor tiene 74,65 años
 339 - el paciente en rango adulto mayor tiene 71,33 años
-340 - el paciente en rango menor de edad tiene 7,64 años
-341 - el paciente en rango menor de edad tiene 10,08 años
-342 - el paciente en rango mayor de edad tiene 49,88 años
+340 - el paciente en rango niño tiene 7,64 años
+341 - el paciente en rango niño tiene 10,08 años
+342 - el paciente en rango adulto tiene 49,88 años
 343 - el paciente en rango adulto mayor tiene 82,97 años
-344 - el paciente en rango menor de edad tiene 8,57 años
-345 - el paciente en rango mayor de edad tiene 25,27 años
+344 - el paciente en rango niño tiene 8,57 años
+345 - el paciente en rango adulto tiene 25,27 años
 346 - el paciente en rango adulto mayor tiene 69,54 años
-347 - el paciente en rango mayor de edad tiene 42,4 años
-348 - el paciente en rango mayor de edad tiene 49,27 años
+347 - el paciente en rango adulto tiene 42,4 años
+348 - el paciente en rango adulto tiene 49,27 años
 349 - el paciente en rango adulto mayor tiene 91,66 años
-350 - el paciente en rango menor de edad tiene 12,62 años
+350 - el paciente en rango niño tiene 12,62 años
 351 - el paciente en rango adulto mayor tiene 85,35 años
-352 - el paciente en rango menor de edad tiene 4,46 años
+352 - el paciente en rango niño tiene 4,46 años
 353 - el paciente en rango adulto mayor tiene 98,53 años
-354 - el paciente en rango menor de edad tiene 14,09 años
+354 - el paciente en rango niño tiene 14,09 años
 355 - el paciente en rango adulto mayor tiene 62,57 años
-356 - el paciente en rango mayor de edad tiene 54,69 años
-357 - el paciente en rango mayor de edad tiene 55,38 años
-358 - el paciente en rango menor de edad tiene 10,05 años
+356 - el paciente en rango adulto tiene 54,69 años
+357 - el paciente en rango adulto tiene 55,38 años
+358 - el paciente en rango niño tiene 10,05 años
 359 - el paciente en rango adulto mayor tiene 93,93 años
-360 - el paciente en rango menor de edad tiene 13,13 años
+360 - el paciente en rango niño tiene 13,13 años
 361 - el paciente en rango adulto mayor tiene 85,01 años
 362 - el paciente en rango adulto mayor tiene 60,25 años
 363 - el paciente en rango adulto mayor tiene 79,45 años
 364 - el paciente en rango adulto mayor tiene 99,23 años
-365 - el paciente en rango mayor de edad tiene 53,64 años
-366 - el paciente en rango menor de edad tiene 10,62 años
-367 - el paciente en rango mayor de edad tiene 37,85 años
-368 - el paciente en rango menor de edad tiene 0,28 años
+365 - el paciente en rango adulto tiene 53,64 años
+366 - el paciente en rango niño tiene 10,62 años
+367 - el paciente en rango adulto tiene 37,85 años
+368 - el paciente en rango niño tiene 0,28 años
 369 - el paciente en rango adulto mayor tiene 81,51 años
 370 - el paciente en rango adulto mayor tiene 82,41 años
-371 - el paciente en rango mayor de edad tiene 54,69 años
+371 - el paciente en rango adulto tiene 54,69 años
 372 - el paciente en rango adulto mayor tiene 64,85 años
 373 - el paciente en rango adulto mayor tiene 92,24 años
-374 - el paciente en rango mayor de edad tiene 47,92 años
-375 - el paciente en rango menor de edad tiene 14,9 años
-376 - el paciente en rango mayor de edad tiene 37,23 años
+374 - el paciente en rango adulto tiene 47,92 años
+375 - el paciente en rango niño tiene 14,9 años
+376 - el paciente en rango adulto tiene 37,23 años
 377 - el paciente en rango adulto mayor tiene 70,09 años
-378 - el paciente en rango menor de edad tiene 0,16 años
-379 - el paciente en rango mayor de edad tiene 22,89 años
-380 - el paciente en rango menor de edad tiene 15,08 años
+378 - el paciente en rango niño tiene 0,16 años
+379 - el paciente en rango adulto tiene 22,89 años
+380 - el paciente en rango niño tiene 15,08 años
 381 - el paciente en rango adulto mayor tiene 81,62 años
-382 - el paciente en rango mayor de edad tiene 22,35 años
-383 - el paciente en rango menor de edad tiene 14,59 años
-384 - el paciente en rango menor de edad tiene 7,73 años
+382 - el paciente en rango adulto tiene 22,35 años
+383 - el paciente en rango niño tiene 14,59 años
+384 - el paciente en rango niño tiene 7,73 años
 385 - el paciente en rango adulto mayor tiene 68,36 años
 386 - el paciente en rango adulto mayor tiene 60,44 años
-387 - el paciente en rango menor de edad tiene 6,42 años
+387 - el paciente en rango niño tiene 6,42 años
 388 - el paciente en rango adulto mayor tiene 81,88 años
 389 - el paciente en rango adulto mayor tiene 90,99 años
-390 - el paciente en rango mayor de edad tiene 35,34 años
+390 - el paciente en rango adulto tiene 35,34 años
 391 - el paciente en rango adulto mayor tiene 83,56 años
-392 - el paciente en rango menor de edad tiene 15,58 años
-393 - el paciente en rango menor de edad tiene 1,1400000000000001 años
+392 - el paciente en rango niño tiene 15,58 años
+393 - el paciente en rango niño tiene 1,1400000000000001 años
 394 - el paciente en rango adulto mayor tiene 67,72 años
 395 - el paciente en rango adulto mayor tiene 91,92 años
 396 - el paciente en rango adulto mayor tiene 84,69 años
-397 - el paciente en rango mayor de edad tiene 54,4 años
-398 - el paciente en rango mayor de edad tiene 51,1 años
-399 - el paciente en rango menor de edad tiene 0,2 años
+397 - el paciente en rango adulto tiene 54,4 años
+398 - el paciente en rango adulto tiene 51,1 años
+399 - el paciente en rango niño tiene 0,2 años
 400 - el paciente en rango adulto mayor tiene 98,02 años
-401 - el paciente en rango mayor de edad tiene 23,1 años
-402 - el paciente en rango mayor de edad tiene 35,68 años
-403 - el paciente en rango menor de edad tiene 13,03 años
+401 - el paciente en rango adulto tiene 23,1 años
+402 - el paciente en rango adulto tiene 35,68 años
+403 - el paciente en rango niño tiene 13,03 años
 404 - el paciente en rango adulto mayor tiene 76,43 años
 405 - el paciente en rango adulto mayor tiene 91,07 años
-406 - el paciente en rango menor de edad tiene 1,16 años
-407 - el paciente en rango mayor de edad tiene 36,07 años
+406 - el paciente en rango niño tiene 1,16 años
+407 - el paciente en rango adulto tiene 36,07 años
 408 - el paciente en rango adulto mayor tiene 75,07 años
-409 - el paciente en rango mayor de edad tiene 28,01 años
+409 - el paciente en rango adulto tiene 28,01 años
 410 - el paciente en rango adulto mayor tiene 69,85 años
-411 - el paciente en rango menor de edad tiene 3,14 años
+411 - el paciente en rango niño tiene 3,14 años
 412 - el paciente en rango adulto mayor tiene 96,76 años
-413 - el paciente en rango menor de edad tiene 13,22 años
-414 - el paciente en rango menor de edad tiene 3,84 años
-415 - el paciente en rango menor de edad tiene 16,62 años
-416 - el paciente en rango menor de edad tiene 11,96 años
+413 - el paciente en rango niño tiene 13,22 años
+414 - el paciente en rango niño tiene 3,84 años
+415 - el paciente en rango niño tiene 16,62 años
+416 - el paciente en rango niño tiene 11,96 años
 417 - el paciente en rango adulto mayor tiene 89,23 años
 418 - el paciente en rango adulto mayor tiene 71,8 años
-419 - el paciente en rango mayor de edad tiene 21,43 años
-420 - el paciente en rango mayor de edad tiene 19,58 años
+419 - el paciente en rango adulto tiene 21,43 años
+420 - el paciente en rango adulto tiene 19,58 años
 421 - el paciente en rango adulto mayor tiene 85,96 años
-422 - el paciente en rango mayor de edad tiene 20,01 años
-423 - el paciente en rango menor de edad tiene 4,42 años
-424 - el paciente en rango menor de edad tiene 4,87 años
-425 - el paciente en rango mayor de edad tiene 39,74 años
+422 - el paciente en rango adulto tiene 20,01 años
+423 - el paciente en rango niño tiene 4,42 años
+424 - el paciente en rango niño tiene 4,87 años
+425 - el paciente en rango adulto tiene 39,74 años
 426 - el paciente en rango adulto mayor tiene 95,3 años
 427 - el paciente en rango adulto mayor tiene 95,74 años
-428 - el paciente en rango menor de edad tiene 16,31 años
-429 - el paciente en rango mayor de edad tiene 51,62 años
+428 - el paciente en rango niño tiene 16,31 años
+429 - el paciente en rango adulto tiene 51,62 años
 430 - el paciente en rango adulto mayor tiene 93,7 años
-431 - el paciente en rango menor de edad tiene 10,56 años
+431 - el paciente en rango niño tiene 10,56 años
 432 - el paciente en rango adulto mayor tiene 68,07 años
-433 - el paciente en rango menor de edad tiene 16,57 años
-434 - el paciente en rango mayor de edad tiene 29,93 años
-435 - el paciente en rango menor de edad tiene 7,02 años
-436 - el paciente en rango menor de edad tiene 4,6 años
-437 - el paciente en rango mayor de edad tiene 23,43 años
-438 - el paciente en rango menor de edad tiene 4,09 años
-439 - el paciente en rango menor de edad tiene 0,34 años
-440 - el paciente en rango mayor de edad tiene 35,18 años
-441 - el paciente en rango menor de edad tiene 11,78 años
-442 - el paciente en rango mayor de edad tiene 19,49 años
-443 - el paciente en rango mayor de edad tiene 40,46 años
+433 - el paciente en rango niño tiene 16,57 años
+434 - el paciente en rango adulto tiene 29,93 años
+435 - el paciente en rango niño tiene 7,02 años
+436 - el paciente en rango niño tiene 4,6 años
+437 - el paciente en rango adulto tiene 23,43 años
+438 - el paciente en rango niño tiene 4,09 años
+439 - el paciente en rango niño tiene 0,34 años
+440 - el paciente en rango adulto tiene 35,18 años
+441 - el paciente en rango niño tiene 11,78 años
+442 - el paciente en rango adulto tiene 19,49 años
+443 - el paciente en rango adulto tiene 40,46 años
 444 - el paciente en rango adulto mayor tiene 71,17 años
 445 - el paciente en rango adulto mayor tiene 91,34 años
-446 - el paciente en rango mayor de edad tiene 29,12 años
-447 - el paciente en rango menor de edad tiene 2,33 años
+446 - el paciente en rango adulto tiene 29,12 años
+447 - el paciente en rango niño tiene 2,33 años
 448 - el paciente en rango adulto mayor tiene 87,2 años
-449 - el paciente en rango menor de edad tiene 11,89 años
-450 - el paciente en rango menor de edad tiene 4,78 años
+449 - el paciente en rango niño tiene 11,89 años
+450 - el paciente en rango niño tiene 4,78 años
 451 - el paciente en rango adulto mayor tiene 87,57 años
 452 - el paciente en rango adulto mayor tiene 71,17 años
-453 - el paciente en rango mayor de edad tiene 49,16 años
-454 - el paciente en rango menor de edad tiene 0,55 años
-455 - el paciente en rango mayor de edad tiene 28,96 años
+453 - el paciente en rango adulto tiene 49,16 años
+454 - el paciente en rango niño tiene 0,55 años
+455 - el paciente en rango adulto tiene 28,96 años
 456 - el paciente en rango adulto mayor tiene 91,79 años
 457 - el paciente en rango adulto mayor tiene 60,77 años
-458 - el paciente en rango menor de edad tiene 16,59 años
+458 - el paciente en rango niño tiene 16,59 años
 459 - el paciente en rango adulto mayor tiene 60,92 años
 460 - el paciente en rango adulto mayor tiene 70,1 años
-461 - el paciente en rango menor de edad tiene 13,39 años
-462 - el paciente en rango mayor de edad tiene 36,8 años
-463 - el paciente en rango mayor de edad tiene 25,21 años
-464 - el paciente en rango mayor de edad tiene 19,32 años
-465 - el paciente en rango menor de edad tiene 3,76 años
-466 - el paciente en rango mayor de edad tiene 27,74 años
+461 - el paciente en rango niño tiene 13,39 años
+462 - el paciente en rango adulto tiene 36,8 años
+463 - el paciente en rango adulto tiene 25,21 años
+464 - el paciente en rango adulto tiene 19,32 años
+465 - el paciente en rango niño tiene 3,76 años
+466 - el paciente en rango adulto tiene 27,74 años
 467 - el paciente en rango adulto mayor tiene 67,36 años
 468 - el paciente en rango adulto mayor tiene 92,96 años
-469 - el paciente en rango menor de edad tiene 12,95 años
-470 - el paciente en rango menor de edad tiene 16,46 años
-471 - el paciente en rango menor de edad tiene 8,83 años
+469 - el paciente en rango niño tiene 12,95 años
+470 - el paciente en rango niño tiene 16,46 años
+471 - el paciente en rango niño tiene 8,83 años
 472 - el paciente en rango adulto mayor tiene 77,17 años
-473 - el paciente en rango mayor de edad tiene 47,96 años
-474 - el paciente en rango menor de edad tiene 16,2 años
-475 - el paciente en rango mayor de edad tiene 51,8 años
-476 - el paciente en rango mayor de edad tiene 43,82 años
+473 - el paciente en rango adulto tiene 47,96 años
+474 - el paciente en rango niño tiene 16,2 años
+475 - el paciente en rango adulto tiene 51,8 años
+476 - el paciente en rango adulto tiene 43,82 años
 477 - el paciente en rango adulto mayor tiene 81,78 años
 478 - el paciente en rango adulto mayor tiene 72,66 años
-479 - el paciente en rango menor de edad tiene 9,0 años
+479 - el paciente en rango niño tiene 9,0 años
 480 - el paciente en rango adulto mayor tiene 87,48 años
-481 - el paciente en rango mayor de edad tiene 33,82 años
-482 - el paciente en rango mayor de edad tiene 33,06 años
+481 - el paciente en rango adulto tiene 33,82 años
+482 - el paciente en rango adulto tiene 33,06 años
 483 - el paciente en rango adulto mayor tiene 82,64 años
-484 - el paciente en rango mayor de edad tiene 20,11 años
-485 - el paciente en rango mayor de edad tiene 28,28 años
-486 - el paciente en rango mayor de edad tiene 33,38 años
+484 - el paciente en rango adulto tiene 20,11 años
+485 - el paciente en rango adulto tiene 28,28 años
+486 - el paciente en rango adulto tiene 33,38 años
 487 - el paciente en rango adulto mayor tiene 72,81 años
-488 - el paciente en rango mayor de edad tiene 54,78 años
-489 - el paciente en rango mayor de edad tiene 21,95 años
-490 - el paciente en rango mayor de edad tiene 52,93 años
-491 - el paciente en rango mayor de edad tiene 41,98 años
-492 - el paciente en rango mayor de edad tiene 35,41 años
-493 - el paciente en rango mayor de edad tiene 37,18 años
-494 - el paciente en rango menor de edad tiene 13,83 años
-495 - el paciente en rango menor de edad tiene 6,09 años
-496 - el paciente en rango mayor de edad tiene 22,35 años
+488 - el paciente en rango adulto tiene 54,78 años
+489 - el paciente en rango adulto tiene 21,95 años
+490 - el paciente en rango adulto tiene 52,93 años
+491 - el paciente en rango adulto tiene 41,98 años
+492 - el paciente en rango adulto tiene 35,41 años
+493 - el paciente en rango adulto tiene 37,18 años
+494 - el paciente en rango niño tiene 13,83 años
+495 - el paciente en rango niño tiene 6,09 años
+496 - el paciente en rango adulto tiene 22,35 años
 497 - el paciente en rango adulto mayor tiene 64,3 años
-498 - el paciente en rango menor de edad tiene 3,82 años
+498 - el paciente en rango niño tiene 3,82 años
 499 - el paciente en rango adulto mayor tiene 99,63 años
-500 - el paciente en rango mayor de edad tiene 26,83 años
+500 - el paciente en rango adulto tiene 26,83 años
 501 - el paciente en rango adulto mayor tiene 68,11 años
-502 - el paciente en rango mayor de edad tiene 21,26 años
-503 - el paciente en rango mayor de edad tiene 45,57 años
-504 - el paciente en rango menor de edad tiene 9,39 años
-505 - el paciente en rango mayor de edad tiene 22,33 años
-506 - el paciente en rango menor de edad tiene 9,3 años
-507 - el paciente en rango menor de edad tiene 14,55 años
-508 - el paciente en rango menor de edad tiene 2,73 años
-509 - el paciente en rango menor de edad tiene 6,68 años
-510 - el paciente en rango mayor de edad tiene 21,48 años
-511 - el paciente en rango mayor de edad tiene 55,01 años
-512 - el paciente en rango menor de edad tiene 15,64 años
+502 - el paciente en rango adulto tiene 21,26 años
+503 - el paciente en rango adulto tiene 45,57 años
+504 - el paciente en rango niño tiene 9,39 años
+505 - el paciente en rango adulto tiene 22,33 años
+506 - el paciente en rango niño tiene 9,3 años
+507 - el paciente en rango niño tiene 14,55 años
+508 - el paciente en rango niño tiene 2,73 años
+509 - el paciente en rango niño tiene 6,68 años
+510 - el paciente en rango adulto tiene 21,48 años
+511 - el paciente en rango adulto tiene 55,01 años
+512 - el paciente en rango niño tiene 15,64 años
 513 - el paciente en rango adulto mayor tiene 72,78 años
-514 - el paciente en rango mayor de edad tiene 42,5 años
+514 - el paciente en rango adulto tiene 42,5 años
 515 - el paciente en rango adulto mayor tiene 71,91 años
 516 - el paciente en rango adulto mayor tiene 87,67 años
-517 - el paciente en rango menor de edad tiene 16,13 años
-518 - el paciente en rango mayor de edad tiene 39,89 años
-519 - el paciente en rango menor de edad tiene 7,92 años
-520 - el paciente en rango menor de edad tiene 3,34 años
-521 - el paciente en rango menor de edad tiene 0,75 años
-522 - el paciente en rango menor de edad tiene 13,62 años
-523 - el paciente en rango menor de edad tiene 13,6 años
-524 - el paciente en rango menor de edad tiene 10,28 años
+517 - el paciente en rango niño tiene 16,13 años
+518 - el paciente en rango adulto tiene 39,89 años
+519 - el paciente en rango niño tiene 7,92 años
+520 - el paciente en rango niño tiene 3,34 años
+521 - el paciente en rango niño tiene 0,75 años
+522 - el paciente en rango niño tiene 13,62 años
+523 - el paciente en rango niño tiene 13,6 años
+524 - el paciente en rango niño tiene 10,28 años
 525 - el paciente en rango adulto mayor tiene 98,79 años
 526 - el paciente en rango adulto mayor tiene 91,88 años
-527 - el paciente en rango mayor de edad tiene 45,25 años
-528 - el paciente en rango mayor de edad tiene 49,36 años
-529 - el paciente en rango mayor de edad tiene 56,67 años
+527 - el paciente en rango adulto tiene 45,25 años
+528 - el paciente en rango adulto tiene 49,36 años
+529 - el paciente en rango adulto tiene 56,67 años
 530 - el paciente en rango adulto mayor tiene 76,39 años
-531 - el paciente en rango menor de edad tiene 7,22 años
+531 - el paciente en rango niño tiene 7,22 años
 532 - el paciente en rango adulto mayor tiene 61,48 años
-533 - el paciente en rango mayor de edad tiene 39,05 años
+533 - el paciente en rango adulto tiene 39,05 años
 534 - el paciente en rango adulto mayor tiene 97,4 años
 535 - el paciente en rango adulto mayor tiene 87,17 años
 536 - el paciente en rango adulto mayor tiene 87,63 años
-537 - el paciente en rango menor de edad tiene 5,53 años
+537 - el paciente en rango niño tiene 5,53 años
 538 - el paciente en rango adulto mayor tiene 73,93 años
 539 - el paciente en rango adulto mayor tiene 90,36 años
-540 - el paciente en rango menor de edad tiene 9,43 años
-541 - el paciente en rango menor de edad tiene 8,12 años
-542 - el paciente en rango menor de edad tiene 12,9 años
+540 - el paciente en rango niño tiene 9,43 años
+541 - el paciente en rango niño tiene 8,12 años
+542 - el paciente en rango niño tiene 12,9 años
 543 - el paciente en rango adulto mayor tiene 76,77 años
-544 - el paciente en rango mayor de edad tiene 50,59 años
-545 - el paciente en rango mayor de edad tiene 24,06 años
+544 - el paciente en rango adulto tiene 50,59 años
+545 - el paciente en rango adulto tiene 24,06 años
 546 - el paciente en rango adulto mayor tiene 87,14 años
-547 - el paciente en rango mayor de edad tiene 23,86 años
+547 - el paciente en rango adulto tiene 23,86 años
 548 - el paciente en rango adulto mayor tiene 90,34 años
-549 - el paciente en rango menor de edad tiene 8,71 años
-550 - el paciente en rango menor de edad tiene 10,35 años
+549 - el paciente en rango niño tiene 8,71 años
+550 - el paciente en rango niño tiene 10,35 años
 551 - el paciente en rango adulto mayor tiene 64,52 años
-552 - el paciente en rango mayor de edad tiene 23,35 años
-553 - el paciente en rango menor de edad tiene 0,48 años
-554 - el paciente en rango mayor de edad tiene 20,85 años
-555 - el paciente en rango mayor de edad tiene 27,77 años
+552 - el paciente en rango adulto tiene 23,35 años
+553 - el paciente en rango niño tiene 0,48 años
+554 - el paciente en rango adulto tiene 20,85 años
+555 - el paciente en rango adulto tiene 27,77 años
 556 - el paciente en rango adulto mayor tiene 60,74 años
-557 - el paciente en rango menor de edad tiene 13,75 años
+557 - el paciente en rango niño tiene 13,75 años
 558 - el paciente en rango adulto mayor tiene 83,92 años
-559 - el paciente en rango menor de edad tiene 6,43 años
+559 - el paciente en rango niño tiene 6,43 años
 560 - el paciente en rango adulto mayor tiene 61,3 años
-561 - el paciente en rango menor de edad tiene 15,5 años
+561 - el paciente en rango niño tiene 15,5 años
 562 - el paciente en rango adulto mayor tiene 69,75 años
 563 - el paciente en rango adulto mayor tiene 60,87 años
-564 - el paciente en rango menor de edad tiene 9,13 años
+564 - el paciente en rango niño tiene 9,13 años
 565 - el paciente en rango adulto mayor tiene 60,8 años
-566 - el paciente en rango menor de edad tiene 12,22 años
-567 - el paciente en rango menor de edad tiene 5,2 años
-568 - el paciente en rango menor de edad tiene 15,82 años
+566 - el paciente en rango niño tiene 12,22 años
+567 - el paciente en rango niño tiene 5,2 años
+568 - el paciente en rango niño tiene 15,82 años
 569 - el paciente en rango adulto mayor tiene 99,87 años
 570 - el paciente en rango adulto mayor tiene 89,15 años
 571 - el paciente en rango adulto mayor tiene 72,13 años
-572 - el paciente en rango menor de edad tiene 3,27 años
-573 - el paciente en rango mayor de edad tiene 23,59 años
-574 - el paciente en rango mayor de edad tiene 53,22 años
-575 - el paciente en rango menor de edad tiene 8,1 años
-576 - el paciente en rango mayor de edad tiene 31,56 años
-577 - el paciente en rango menor de edad tiene 11,4 años
+572 - el paciente en rango niño tiene 3,27 años
+573 - el paciente en rango adulto tiene 23,59 años
+574 - el paciente en rango adulto tiene 53,22 años
+575 - el paciente en rango niño tiene 8,1 años
+576 - el paciente en rango adulto tiene 31,56 años
+577 - el paciente en rango niño tiene 11,4 años
 578 - el paciente en rango adulto mayor tiene 70,62 años
-579 - el paciente en rango menor de edad tiene 9,04 años
-580 - el paciente en rango menor de edad tiene 13,41 años
+579 - el paciente en rango niño tiene 9,04 años
+580 - el paciente en rango niño tiene 13,41 años
 581 - el paciente en rango adulto mayor tiene 79,06 años
-582 - el paciente en rango mayor de edad tiene 20,78 años
+582 - el paciente en rango adulto tiene 20,78 años
 583 - el paciente en rango adulto mayor tiene 71,05 años
-584 - el paciente en rango menor de edad tiene 8,66 años
-585 - el paciente en rango mayor de edad tiene 21,43 años
-586 - el paciente en rango mayor de edad tiene 50,26 años
+584 - el paciente en rango niño tiene 8,66 años
+585 - el paciente en rango adulto tiene 21,43 años
+586 - el paciente en rango adulto tiene 50,26 años
 587 - el paciente en rango adulto mayor tiene 99,06 años
 588 - el paciente en rango adulto mayor tiene 66,83 años
 589 - el paciente en rango adulto mayor tiene 99,62 años
 590 - el paciente en rango adulto mayor tiene 86,13 años
-591 - el paciente en rango menor de edad tiene 0,25 años
-592 - el paciente en rango mayor de edad tiene 50,72 años
-593 - el paciente en rango mayor de edad tiene 31,65 años
-594 - el paciente en rango mayor de edad tiene 35,3 años
+591 - el paciente en rango niño tiene 0,25 años
+592 - el paciente en rango adulto tiene 50,72 años
+593 - el paciente en rango adulto tiene 31,65 años
+594 - el paciente en rango adulto tiene 35,3 años
 595 - el paciente en rango adulto mayor tiene 83,31 años
-596 - el paciente en rango menor de edad tiene 10,56 años
-597 - el paciente en rango menor de edad tiene 13,95 años
-598 - el paciente en rango menor de edad tiene 8,18 años
-599 - el paciente en rango mayor de edad tiene 32,23 años
-600 - el paciente en rango menor de edad tiene 6,27 años
-601 - el paciente en rango menor de edad tiene 7,9 años
-602 - el paciente en rango mayor de edad tiene 51,61 años
-603 - el paciente en rango menor de edad tiene 2,07 años
-604 - el paciente en rango mayor de edad tiene 57,09 años
+596 - el paciente en rango niño tiene 10,56 años
+597 - el paciente en rango niño tiene 13,95 años
+598 - el paciente en rango niño tiene 8,18 años
+599 - el paciente en rango adulto tiene 32,23 años
+600 - el paciente en rango niño tiene 6,27 años
+601 - el paciente en rango niño tiene 7,9 años
+602 - el paciente en rango adulto tiene 51,61 años
+603 - el paciente en rango niño tiene 2,07 años
+604 - el paciente en rango adulto tiene 57,09 años
 605 - el paciente en rango adulto mayor tiene 70,92 años
-606 - el paciente en rango mayor de edad tiene 34,33 años
-607 - el paciente en rango menor de edad tiene 1,8900000000000001 años
-608 - el paciente en rango mayor de edad tiene 29,56 años
+606 - el paciente en rango adulto tiene 34,33 años
+607 - el paciente en rango niño tiene 1,8900000000000001 años
+608 - el paciente en rango adulto tiene 29,56 años
 609 - el paciente en rango adulto mayor tiene 78,4 años
-610 - el paciente en rango menor de edad tiene 11,59 años
+610 - el paciente en rango niño tiene 11,59 años
 611 - el paciente en rango adulto mayor tiene 63,94 años
 612 - el paciente en rango adulto mayor tiene 90,59 años
 613 - el paciente en rango adulto mayor tiene 99,63 años
-614 - el paciente en rango menor de edad tiene 15,16 años
-615 - el paciente en rango mayor de edad tiene 50,09 años
+614 - el paciente en rango niño tiene 15,16 años
+615 - el paciente en rango adulto tiene 50,09 años
 616 - el paciente en rango adulto mayor tiene 73,49 años
 617 - el paciente en rango adulto mayor tiene 84,15 años
-618 - el paciente en rango mayor de edad tiene 25,34 años
-619 - el paciente en rango menor de edad tiene 1,45 años
-620 - el paciente en rango menor de edad tiene 12,51 años
-621 - el paciente en rango menor de edad tiene 10,98 años
-622 - el paciente en rango mayor de edad tiene 51,87 años
-623 - el paciente en rango menor de edad tiene 16,56 años
+618 - el paciente en rango adulto tiene 25,34 años
+619 - el paciente en rango niño tiene 1,45 años
+620 - el paciente en rango niño tiene 12,51 años
+621 - el paciente en rango niño tiene 10,98 años
+622 - el paciente en rango adulto tiene 51,87 años
+623 - el paciente en rango niño tiene 16,56 años
 624 - el paciente en rango adulto mayor tiene 84,39 años
-625 - el paciente en rango menor de edad tiene 15,05 años
-626 - el paciente en rango menor de edad tiene 12,5 años
-627 - el paciente en rango mayor de edad tiene 21,59 años
-628 - el paciente en rango menor de edad tiene 2,93 años
-629 - el paciente en rango menor de edad tiene 3,82 años
+625 - el paciente en rango niño tiene 15,05 años
+626 - el paciente en rango niño tiene 12,5 años
+627 - el paciente en rango adulto tiene 21,59 años
+628 - el paciente en rango niño tiene 2,93 años
+629 - el paciente en rango niño tiene 3,82 años
 630 - el paciente en rango adulto mayor tiene 73,83 años
 631 - el paciente en rango adulto mayor tiene 74,27 años
-632 - el paciente en rango menor de edad tiene 13,77 años
-633 - el paciente en rango mayor de edad tiene 39,58 años
-634 - el paciente en rango menor de edad tiene 13,32 años
+632 - el paciente en rango niño tiene 13,77 años
+633 - el paciente en rango adulto tiene 39,58 años
+634 - el paciente en rango niño tiene 13,32 años
 635 - el paciente en rango adulto mayor tiene 98,86 años
-636 - el paciente en rango menor de edad tiene 11,54 años
+636 - el paciente en rango niño tiene 11,54 años
 637 - el paciente en rango adulto mayor tiene 65,29 años
-638 - el paciente en rango mayor de edad tiene 44,53 años
-639 - el paciente en rango menor de edad tiene 14,27 años
-640 - el paciente en rango mayor de edad tiene 32,01 años
+638 - el paciente en rango adulto tiene 44,53 años
+639 - el paciente en rango niño tiene 14,27 años
+640 - el paciente en rango adulto tiene 32,01 años
 641 - el paciente en rango adulto mayor tiene 82,28 años
-642 - el paciente en rango mayor de edad tiene 41,6 años
-643 - el paciente en rango menor de edad tiene 15,74 años
+642 - el paciente en rango adulto tiene 41,6 años
+643 - el paciente en rango niño tiene 15,74 años
 644 - el paciente en rango adulto mayor tiene 82,59 años
 645 - el paciente en rango adulto mayor tiene 85,73 años
-646 - el paciente en rango mayor de edad tiene 51,16 años
-647 - el paciente en rango menor de edad tiene 3,39 años
+646 - el paciente en rango adulto tiene 51,16 años
+647 - el paciente en rango niño tiene 3,39 años
 648 - el paciente en rango adulto mayor tiene 98,42 años
-649 - el paciente en rango mayor de edad tiene 24,95 años
-650 - el paciente en rango menor de edad tiene 11,79 años
-651 - el paciente en rango menor de edad tiene 8,19 años
+649 - el paciente en rango adulto tiene 24,95 años
+650 - el paciente en rango niño tiene 11,79 años
+651 - el paciente en rango niño tiene 8,19 años
 652 - el paciente en rango adulto mayor tiene 86,92 años
 653 - el paciente en rango adulto mayor tiene 70,33 años
-654 - el paciente en rango mayor de edad tiene 45,12 años
+654 - el paciente en rango adulto tiene 45,12 años
 655 - el paciente en rango adulto mayor tiene 79,58 años
-656 - el paciente en rango menor de edad tiene 5,51 años
+656 - el paciente en rango niño tiene 5,51 años
 657 - el paciente en rango adulto mayor tiene 61,79 años
 658 - el paciente en rango adulto mayor tiene 89,64 años
-659 - el paciente en rango mayor de edad tiene 40,33 años
-660 - el paciente en rango mayor de edad tiene 54,73 años
-661 - el paciente en rango mayor de edad tiene 48,32 años
-662 - el paciente en rango mayor de edad tiene 23,89 años
-663 - el paciente en rango menor de edad tiene 5,95 años
+659 - el paciente en rango adulto tiene 40,33 años
+660 - el paciente en rango adulto tiene 54,73 años
+661 - el paciente en rango adulto tiene 48,32 años
+662 - el paciente en rango adulto tiene 23,89 años
+663 - el paciente en rango niño tiene 5,95 años
 664 - el paciente en rango adulto mayor tiene 74,33 años
-665 - el paciente en rango mayor de edad tiene 25,58 años
-666 - el paciente en rango mayor de edad tiene 45,06 años
+665 - el paciente en rango adulto tiene 25,58 años
+666 - el paciente en rango adulto tiene 45,06 años
 667 - el paciente en rango adulto mayor tiene 92,03 años
 668 - el paciente en rango adulto mayor tiene 70,16 años
-669 - el paciente en rango mayor de edad tiene 57,64 años
-670 - el paciente en rango mayor de edad tiene 33,3 años
-671 - el paciente en rango menor de edad tiene 10,48 años
-672 - el paciente en rango mayor de edad tiene 34,6 años
-673 - el paciente en rango menor de edad tiene 7,18 años
-674 - el paciente en rango menor de edad tiene 4,79 años
+669 - el paciente en rango adulto tiene 57,64 años
+670 - el paciente en rango adulto tiene 33,3 años
+671 - el paciente en rango niño tiene 10,48 años
+672 - el paciente en rango adulto tiene 34,6 años
+673 - el paciente en rango niño tiene 7,18 años
+674 - el paciente en rango niño tiene 4,79 años
 675 - el paciente en rango adulto mayor tiene 77,07 años
-676 - el paciente en rango menor de edad tiene 9,01 años
+676 - el paciente en rango niño tiene 9,01 años
 677 - el paciente en rango adulto mayor tiene 97,18 años
-678 - el paciente en rango mayor de edad tiene 19,47 años
+678 - el paciente en rango adulto tiene 19,47 años
 679 - el paciente en rango adulto mayor tiene 83,92 años
-680 - el paciente en rango mayor de edad tiene 52,06 años
-681 - el paciente en rango menor de edad tiene 8,27 años
-682 - el paciente en rango mayor de edad tiene 18,85 años
-683 - el paciente en rango mayor de edad tiene 30,05 años
-684 - el paciente en rango menor de edad tiene 7,3 años
+680 - el paciente en rango adulto tiene 52,06 años
+681 - el paciente en rango niño tiene 8,27 años
+682 - el paciente en rango adulto tiene 18,85 años
+683 - el paciente en rango adulto tiene 30,05 años
+684 - el paciente en rango niño tiene 7,3 años
 685 - el paciente en rango adulto mayor tiene 99,39 años
-686 - el paciente en rango mayor de edad tiene 46,61 años
-687 - el paciente en rango menor de edad tiene 14,42 años
-688 - el paciente en rango menor de edad tiene 6,06 años
-689 - el paciente en rango menor de edad tiene 1,04 años
+686 - el paciente en rango adulto tiene 46,61 años
+687 - el paciente en rango niño tiene 14,42 años
+688 - el paciente en rango niño tiene 6,06 años
+689 - el paciente en rango niño tiene 1,04 años
 690 - el paciente en rango adulto mayor tiene 96,93 años
-691 - el paciente en rango menor de edad tiene 2,04 años
-692 - el paciente en rango mayor de edad tiene 52,85 años
-693 - el paciente en rango mayor de edad tiene 44,51 años
-694 - el paciente en rango menor de edad tiene 16,55 años
-695 - el paciente en rango mayor de edad tiene 21,3 años
+691 - el paciente en rango niño tiene 2,04 años
+692 - el paciente en rango adulto tiene 52,85 años
+693 - el paciente en rango adulto tiene 44,51 años
+694 - el paciente en rango niño tiene 16,55 años
+695 - el paciente en rango adulto tiene 21,3 años
 696 - el paciente en rango adulto mayor tiene 75,3 años
 697 - el paciente en rango adulto mayor tiene 78,09 años
 698 - el paciente en rango adulto mayor tiene 64,61 años
-699 - el paciente en rango menor de edad tiene 8,39 años
-700 - el paciente en rango menor de edad tiene 1,41 años
-701 - el paciente en rango mayor de edad tiene 48,07 años
+699 - el paciente en rango niño tiene 8,39 años
+700 - el paciente en rango niño tiene 1,41 años
+701 - el paciente en rango adulto tiene 48,07 años
 702 - el paciente en rango adulto mayor tiene 95,87 años
-703 - el paciente en rango menor de edad tiene 15,73 años
+703 - el paciente en rango niño tiene 15,73 años
 704 - el paciente en rango adulto mayor tiene 64,83 años
-705 - el paciente en rango mayor de edad tiene 27,62 años
-706 - el paciente en rango menor de edad tiene 9,42 años
-707 - el paciente en rango mayor de edad tiene 24,08 años
-708 - el paciente en rango mayor de edad tiene 57,56 años
+705 - el paciente en rango adulto tiene 27,62 años
+706 - el paciente en rango niño tiene 9,42 años
+707 - el paciente en rango adulto tiene 24,08 años
+708 - el paciente en rango adulto tiene 57,56 años
 709 - el paciente en rango adulto mayor tiene 66,98 años
-710 - el paciente en rango mayor de edad tiene 33,78 años
-711 - el paciente en rango mayor de edad tiene 55,62 años
-712 - el paciente en rango mayor de edad tiene 30,22 años
+710 - el paciente en rango adulto tiene 33,78 años
+711 - el paciente en rango adulto tiene 55,62 años
+712 - el paciente en rango adulto tiene 30,22 años
 713 - el paciente en rango adulto mayor tiene 83,46 años
 714 - el paciente en rango adulto mayor tiene 62,52 años
 715 - el paciente en rango adulto mayor tiene 63,4 años
 716 - el paciente en rango adulto mayor tiene 83,14 años
-717 - el paciente en rango mayor de edad tiene 34,07 años
+717 - el paciente en rango adulto tiene 34,07 años
 718 - el paciente en rango adulto mayor tiene 83,01 años
-719 - el paciente en rango menor de edad tiene 5,57 años
+719 - el paciente en rango niño tiene 5,57 años
 720 - el paciente en rango adulto mayor tiene 75,65 años
 721 - el paciente en rango adulto mayor tiene 82,29 años
-722 - el paciente en rango menor de edad tiene 0,24 años
+722 - el paciente en rango niño tiene 0,24 años
 723 - el paciente en rango adulto mayor tiene 71,52 años
-724 - el paciente en rango menor de edad tiene 7,92 años
-725 - el paciente en rango menor de edad tiene 4,62 años
-726 - el paciente en rango mayor de edad tiene 20,72 años
-727 - el paciente en rango mayor de edad tiene 26,2 años
+724 - el paciente en rango niño tiene 7,92 años
+725 - el paciente en rango niño tiene 4,62 años
+726 - el paciente en rango adulto tiene 20,72 años
+727 - el paciente en rango adulto tiene 26,2 años
 728 - el paciente en rango adulto mayor tiene 65,41 años
 729 - el paciente en rango adulto mayor tiene 82,67 años
-730 - el paciente en rango menor de edad tiene 6,99 años
-731 - el paciente en rango mayor de edad tiene 22,94 años
-732 - el paciente en rango menor de edad tiene 5,55 años
+730 - el paciente en rango niño tiene 6,99 años
+731 - el paciente en rango adulto tiene 22,94 años
+732 - el paciente en rango niño tiene 5,55 años
 733 - el paciente en rango adulto mayor tiene 89,63 años
-734 - el paciente en rango menor de edad tiene 13,26 años
-735 - el paciente en rango mayor de edad tiene 29,19 años
-736 - el paciente en rango mayor de edad tiene 22,22 años
-737 - el paciente en rango mayor de edad tiene 27,85 años
-738 - el paciente en rango menor de edad tiene 5,0 años
+734 - el paciente en rango niño tiene 13,26 años
+735 - el paciente en rango adulto tiene 29,19 años
+736 - el paciente en rango adulto tiene 22,22 años
+737 - el paciente en rango adulto tiene 27,85 años
+738 - el paciente en rango niño tiene 5,0 años
 739 - el paciente en rango adulto mayor tiene 81,97 años
-740 - el paciente en rango menor de edad tiene 16,84 años
-741 - el paciente en rango mayor de edad tiene 48,41 años
-742 - el paciente en rango mayor de edad tiene 24,73 años
-743 - el paciente en rango mayor de edad tiene 22,49 años
-744 - el paciente en rango menor de edad tiene 5,79 años
-745 - el paciente en rango menor de edad tiene 4,03 años
-746 - el paciente en rango mayor de edad tiene 44,5 años
-747 - el paciente en rango mayor de edad tiene 43,88 años
-748 - el paciente en rango mayor de edad tiene 40,2 años
-749 - el paciente en rango menor de edad tiene 3,7800000000000002 años
-750 - el paciente en rango mayor de edad tiene 43,61 años
+740 - el paciente en rango niño tiene 16,84 años
+741 - el paciente en rango adulto tiene 48,41 años
+742 - el paciente en rango adulto tiene 24,73 años
+743 - el paciente en rango adulto tiene 22,49 años
+744 - el paciente en rango niño tiene 5,79 años
+745 - el paciente en rango niño tiene 4,03 años
+746 - el paciente en rango adulto tiene 44,5 años
+747 - el paciente en rango adulto tiene 43,88 años
+748 - el paciente en rango adulto tiene 40,2 años
+749 - el paciente en rango niño tiene 3,7800000000000002 años
+750 - el paciente en rango adulto tiene 43,61 años
 751 - el paciente en rango adulto mayor tiene 82,22 años
-752 - el paciente en rango mayor de edad tiene 23,7 años
-753 - el paciente en rango mayor de edad tiene 50,83 años
-754 - el paciente en rango menor de edad tiene 16,61 años
+752 - el paciente en rango adulto tiene 23,7 años
+753 - el paciente en rango adulto tiene 50,83 años
+754 - el paciente en rango niño tiene 16,61 años
 755 - el paciente en rango adulto mayor tiene 70,6 años
 756 - el paciente en rango adulto mayor tiene 85,81 años
 757 - el paciente en rango adulto mayor tiene 80,98 años
-758 - el paciente en rango mayor de edad tiene 19,75 años
-759 - el paciente en rango mayor de edad tiene 23,13 años
-760 - el paciente en rango menor de edad tiene 6,4 años
-761 - el paciente en rango mayor de edad tiene 46,57 años
+758 - el paciente en rango adulto tiene 19,75 años
+759 - el paciente en rango adulto tiene 23,13 años
+760 - el paciente en rango niño tiene 6,4 años
+761 - el paciente en rango adulto tiene 46,57 años
 762 - el paciente en rango adulto mayor tiene 72,58 años
 763 - el paciente en rango adulto mayor tiene 73,13 años
-764 - el paciente en rango mayor de edad tiene 27,6 años
+764 - el paciente en rango adulto tiene 27,6 años
 765 - el paciente en rango adulto mayor tiene 83,41 años
-766 - el paciente en rango mayor de edad tiene 43,41 años
-767 - el paciente en rango mayor de edad tiene 47,7 años
-768 - el paciente en rango mayor de edad tiene 46,54 años
+766 - el paciente en rango adulto tiene 43,41 años
+767 - el paciente en rango adulto tiene 47,7 años
+768 - el paciente en rango adulto tiene 46,54 años
 769 - el paciente en rango adulto mayor tiene 89,23 años
-770 - el paciente en rango mayor de edad tiene 43,67 años
-771 - el paciente en rango menor de edad tiene 14,96 años
+770 - el paciente en rango adulto tiene 43,67 años
+771 - el paciente en rango niño tiene 14,96 años
 772 - el paciente en rango adulto mayor tiene 73,42 años
 773 - el paciente en rango adulto mayor tiene 84,38 años
-774 - el paciente en rango menor de edad tiene 4,39 años
-775 - el paciente en rango mayor de edad tiene 33,85 años
+774 - el paciente en rango niño tiene 4,39 años
+775 - el paciente en rango adulto tiene 33,85 años
 776 - el paciente en rango adulto mayor tiene 72,7 años
 777 - el paciente en rango adulto mayor tiene 96,88 años
-778 - el paciente en rango mayor de edad tiene 51,55 años
-779 - el paciente en rango mayor de edad tiene 41,48 años
+778 - el paciente en rango adulto tiene 51,55 años
+779 - el paciente en rango adulto tiene 41,48 años
 780 - el paciente en rango adulto mayor tiene 71,93 años
-781 - el paciente en rango mayor de edad tiene 27,37 años
+781 - el paciente en rango adulto tiene 27,37 años
 782 - el paciente en rango adulto mayor tiene 90,83 años
 783 - el paciente en rango adulto mayor tiene 66,82 años
-784 - el paciente en rango menor de edad tiene 11,25 años
+784 - el paciente en rango niño tiene 11,25 años
 785 - el paciente en rango adulto mayor tiene 94,34 años
-786 - el paciente en rango mayor de edad tiene 35,8 años
+786 - el paciente en rango adulto tiene 35,8 años
 787 - el paciente en rango adulto mayor tiene 98,55 años
-788 - el paciente en rango mayor de edad tiene 51,54 años
+788 - el paciente en rango adulto tiene 51,54 años
 789 - el paciente en rango adulto mayor tiene 88,15 años
-790 - el paciente en rango menor de edad tiene 7,43 años
+790 - el paciente en rango niño tiene 7,43 años
 791 - el paciente en rango adulto mayor tiene 71,84 años
-792 - el paciente en rango menor de edad tiene 9,01 años
-793 - el paciente en rango menor de edad tiene 5,93 años
-794 - el paciente en rango mayor de edad tiene 37,32 años
-795 - el paciente en rango menor de edad tiene 9,07 años
-796 - el paciente en rango menor de edad tiene 14,67 años
+792 - el paciente en rango niño tiene 9,01 años
+793 - el paciente en rango niño tiene 5,93 años
+794 - el paciente en rango adulto tiene 37,32 años
+795 - el paciente en rango niño tiene 9,07 años
+796 - el paciente en rango niño tiene 14,67 años
 797 - el paciente en rango adulto mayor tiene 85,19 años
-798 - el paciente en rango mayor de edad tiene 38,32 años
+798 - el paciente en rango adulto tiene 38,32 años
 799 - el paciente en rango adulto mayor tiene 87,27 años
-800 - el paciente en rango mayor de edad tiene 23,93 años
-801 - el paciente en rango menor de edad tiene 12,41 años
+800 - el paciente en rango adulto tiene 23,93 años
+801 - el paciente en rango niño tiene 12,41 años
 802 - el paciente en rango adulto mayor tiene 95,54 años
 803 - el paciente en rango adulto mayor tiene 68,87 años
-804 - el paciente en rango mayor de edad tiene 35,1 años
+804 - el paciente en rango adulto tiene 35,1 años
 805 - el paciente en rango adulto mayor tiene 78,46 años
 806 - el paciente en rango adulto mayor tiene 83,12 años
 807 - el paciente en rango adulto mayor tiene 88,72 años
 808 - el paciente en rango adulto mayor tiene 97,05 años
-809 - el paciente en rango menor de edad tiene 6,71 años
-810 - el paciente en rango mayor de edad tiene 47,79 años
-811 - el paciente en rango menor de edad tiene 15,08 años
+809 - el paciente en rango niño tiene 6,71 años
+810 - el paciente en rango adulto tiene 47,79 años
+811 - el paciente en rango niño tiene 15,08 años
 812 - el paciente en rango adulto mayor tiene 81,85 años
-813 - el paciente en rango menor de edad tiene 9,68 años
+813 - el paciente en rango niño tiene 9,68 años
 814 - el paciente en rango adulto mayor tiene 96,97 años
-815 - el paciente en rango menor de edad tiene 16,22 años
+815 - el paciente en rango niño tiene 16,22 años
 816 - el paciente en rango adulto mayor tiene 80,15 años
-817 - el paciente en rango menor de edad tiene 2,93 años
-818 - el paciente en rango menor de edad tiene 15,1 años
-819 - el paciente en rango mayor de edad tiene 23,08 años
-820 - el paciente en rango mayor de edad tiene 58,41 años
-821 - el paciente en rango menor de edad tiene 5,7 años
+817 - el paciente en rango niño tiene 2,93 años
+818 - el paciente en rango niño tiene 15,1 años
+819 - el paciente en rango adulto tiene 23,08 años
+820 - el paciente en rango adulto tiene 58,41 años
+821 - el paciente en rango niño tiene 5,7 años
 822 - el paciente en rango adulto mayor tiene 81,35 años
-823 - el paciente en rango menor de edad tiene 5,33 años
+823 - el paciente en rango niño tiene 5,33 años
 824 - el paciente en rango adulto mayor tiene 66,59 años
-825 - el paciente en rango menor de edad tiene 16,36 años
-826 - el paciente en rango menor de edad tiene 3,29 años
+825 - el paciente en rango niño tiene 16,36 años
+826 - el paciente en rango niño tiene 3,29 años
 827 - el paciente en rango adulto mayor tiene 88,2 años
-828 - el paciente en rango menor de edad tiene 8,15 años
-829 - el paciente en rango mayor de edad tiene 54,91 años
-830 - el paciente en rango mayor de edad tiene 26,79 años
+828 - el paciente en rango niño tiene 8,15 años
+829 - el paciente en rango adulto tiene 54,91 años
+830 - el paciente en rango adulto tiene 26,79 años
 831 - el paciente en rango adulto mayor tiene 90,06 años
 832 - el paciente en rango adulto mayor tiene 89,2 años
 833 - el paciente en rango adulto mayor tiene 72,79 años
 834 - el paciente en rango adulto mayor tiene 74,42 años
-835 - el paciente en rango menor de edad tiene 15,25 años
+835 - el paciente en rango niño tiene 15,25 años
 836 - el paciente en rango adulto mayor tiene 79,33 años
-837 - el paciente en rango mayor de edad tiene 46,79 años
-838 - el paciente en rango mayor de edad tiene 44,27 años
-839 - el paciente en rango menor de edad tiene 9,45 años
+837 - el paciente en rango adulto tiene 46,79 años
+838 - el paciente en rango adulto tiene 44,27 años
+839 - el paciente en rango niño tiene 9,45 años
 840 - el paciente en rango adulto mayor tiene 96,31 años
-841 - el paciente en rango mayor de edad tiene 18,41 años
-842 - el paciente en rango mayor de edad tiene 41,23 años
+841 - el paciente en rango adulto tiene 18,41 años
+842 - el paciente en rango adulto tiene 41,23 años
 843 - el paciente en rango adulto mayor tiene 60,67 años
-844 - el paciente en rango menor de edad tiene 15,33 años
-845 - el paciente en rango menor de edad tiene 14,5 años
-846 - el paciente en rango mayor de edad tiene 57,81 años
-847 - el paciente en rango mayor de edad tiene 33,72 años
-848 - el paciente en rango menor de edad tiene 10,11 años
-849 - el paciente en rango menor de edad tiene 4,11 años
+844 - el paciente en rango niño tiene 15,33 años
+845 - el paciente en rango niño tiene 14,5 años
+846 - el paciente en rango adulto tiene 57,81 años
+847 - el paciente en rango adulto tiene 33,72 años
+848 - el paciente en rango niño tiene 10,11 años
+849 - el paciente en rango niño tiene 4,11 años
 850 - el paciente en rango adulto mayor tiene 88,93 años
-851 - el paciente en rango mayor de edad tiene 26,93 años
+851 - el paciente en rango adulto tiene 26,93 años
 852 - el paciente en rango adulto mayor tiene 75,8 años
 853 - el paciente en rango adulto mayor tiene 95,78 años
-854 - el paciente en rango mayor de edad tiene 27,68 años
-855 - el paciente en rango mayor de edad tiene 22,13 años
+854 - el paciente en rango adulto tiene 27,68 años
+855 - el paciente en rango adulto tiene 22,13 años
 856 - el paciente en rango adulto mayor tiene 79,93 años
 857 - el paciente en rango adulto mayor tiene 76,62 años
-858 - el paciente en rango menor de edad tiene 14,94 años
-859 - el paciente en rango mayor de edad tiene 41,63 años
-860 - el paciente en rango menor de edad tiene 13,39 años
+858 - el paciente en rango niño tiene 14,94 años
+859 - el paciente en rango adulto tiene 41,63 años
+860 - el paciente en rango niño tiene 13,39 años
 861 - el paciente en rango adulto mayor tiene 95,32 años
-862 - el paciente en rango menor de edad tiene 6,91 años
-863 - el paciente en rango mayor de edad tiene 41,4 años
+862 - el paciente en rango niño tiene 6,91 años
+863 - el paciente en rango adulto tiene 41,4 años
 864 - el paciente en rango adulto mayor tiene 83,51 años
-865 - el paciente en rango menor de edad tiene 8,39 años
-866 - el paciente en rango menor de edad tiene 4,8100000000000005 años
-867 - el paciente en rango mayor de edad tiene 58,2 años
-868 - el paciente en rango mayor de edad tiene 37,56 años
-869 - el paciente en rango menor de edad tiene 5,34 años
-870 - el paciente en rango mayor de edad tiene 26,34 años
-871 - el paciente en rango mayor de edad tiene 26,51 años
-872 - el paciente en rango menor de edad tiene 1,79 años
-873 - el paciente en rango mayor de edad tiene 18,85 años
-874 - el paciente en rango mayor de edad tiene 46,53 años
+865 - el paciente en rango niño tiene 8,39 años
+866 - el paciente en rango niño tiene 4,8100000000000005 años
+867 - el paciente en rango adulto tiene 58,2 años
+868 - el paciente en rango adulto tiene 37,56 años
+869 - el paciente en rango niño tiene 5,34 años
+870 - el paciente en rango adulto tiene 26,34 años
+871 - el paciente en rango adulto tiene 26,51 años
+872 - el paciente en rango niño tiene 1,79 años
+873 - el paciente en rango adulto tiene 18,85 años
+874 - el paciente en rango adulto tiene 46,53 años
 875 - el paciente en rango adulto mayor tiene 87,41 años
 876 - el paciente en rango adulto mayor tiene 84,72 años
-877 - el paciente en rango mayor de edad tiene 44,58 años
-878 - el paciente en rango menor de edad tiene 4,61 años
+877 - el paciente en rango adulto tiene 44,58 años
+878 - el paciente en rango niño tiene 4,61 años
 879 - el paciente en rango adulto mayor tiene 98,13 años
-880 - el paciente en rango mayor de edad tiene 46,67 años
-881 - el paciente en rango menor de edad tiene 4,17 años
-882 - el paciente en rango menor de edad tiene 10,52 años
-883 - el paciente en rango menor de edad tiene 3,4699999999999998 años
-884 - el paciente en rango mayor de edad tiene 18,47 años
-885 - el paciente en rango menor de edad tiene 7,38 años
-886 - el paciente en rango menor de edad tiene 0,09 años
-887 - el paciente en rango menor de edad tiene 13,92 años
-888 - el paciente en rango menor de edad tiene 7,18 años
-889 - el paciente en rango menor de edad tiene 13,81 años
+880 - el paciente en rango adulto tiene 46,67 años
+881 - el paciente en rango niño tiene 4,17 años
+882 - el paciente en rango niño tiene 10,52 años
+883 - el paciente en rango niño tiene 3,4699999999999998 años
+884 - el paciente en rango adulto tiene 18,47 años
+885 - el paciente en rango niño tiene 7,38 años
+886 - el paciente en rango niño tiene 0,09 años
+887 - el paciente en rango niño tiene 13,92 años
+888 - el paciente en rango niño tiene 7,18 años
+889 - el paciente en rango niño tiene 13,81 años
 890 - el paciente en rango adulto mayor tiene 77,67 años
-891 - el paciente en rango menor de edad tiene 6,28 años
+891 - el paciente en rango niño tiene 6,28 años
 892 - el paciente en rango adulto mayor tiene 63,62 años
 893 - el paciente en rango adulto mayor tiene 81,65 años
-894 - el paciente en rango menor de edad tiene 1,05 años
-895 - el paciente en rango menor de edad tiene 0,65 años
+894 - el paciente en rango niño tiene 1,05 años
+895 - el paciente en rango niño tiene 0,65 años
 896 - el paciente en rango adulto mayor tiene 73,77 años
-897 - el paciente en rango mayor de edad tiene 28,25 años
-898 - el paciente en rango mayor de edad tiene 41,84 años
+897 - el paciente en rango adulto tiene 28,25 años
+898 - el paciente en rango adulto tiene 41,84 años
 899 - el paciente en rango adulto mayor tiene 64,26 años
-900 - el paciente en rango mayor de edad tiene 47,08 años
+900 - el paciente en rango adulto tiene 47,08 años
 901 - el paciente en rango adulto mayor tiene 85,18 años
-902 - el paciente en rango menor de edad tiene 1,8199999999999998 años
-903 - el paciente en rango menor de edad tiene 8,89 años
-904 - el paciente en rango menor de edad tiene 12,9 años
-905 - el paciente en rango menor de edad tiene 11,77 años
+902 - el paciente en rango niño tiene 1,8199999999999998 años
+903 - el paciente en rango niño tiene 8,89 años
+904 - el paciente en rango niño tiene 12,9 años
+905 - el paciente en rango niño tiene 11,77 años
 906 - el paciente en rango adulto mayor tiene 75,15 años
-907 - el paciente en rango mayor de edad tiene 41,73 años
-908 - el paciente en rango menor de edad tiene 1,56 años
+907 - el paciente en rango adulto tiene 41,73 años
+908 - el paciente en rango niño tiene 1,56 años
 909 - el paciente en rango adulto mayor tiene 93,3 años
-910 - el paciente en rango mayor de edad tiene 20,29 años
-911 - el paciente en rango mayor de edad tiene 56,16 años
+910 - el paciente en rango adulto tiene 20,29 años
+911 - el paciente en rango adulto tiene 56,16 años
 912 - el paciente en rango adulto mayor tiene 78,33 años
 913 - el paciente en rango adulto mayor tiene 71,7 años
-914 - el paciente en rango menor de edad tiene 1,15 años
+914 - el paciente en rango niño tiene 1,15 años
 915 - el paciente en rango adulto mayor tiene 87,16 años
 916 - el paciente en rango adulto mayor tiene 60,47 años
-917 - el paciente en rango mayor de edad tiene 27,42 años
+917 - el paciente en rango adulto tiene 27,42 años
 918 - el paciente en rango adulto mayor tiene 99,52 años
-919 - el paciente en rango menor de edad tiene 10,2 años
-920 - el paciente en rango menor de edad tiene 0,43 años
+919 - el paciente en rango niño tiene 10,2 años
+920 - el paciente en rango niño tiene 0,43 años
 921 - el paciente en rango adulto mayor tiene 79,93 años
-922 - el paciente en rango menor de edad tiene 13,79 años
+922 - el paciente en rango niño tiene 13,79 años
 923 - el paciente en rango adulto mayor tiene 68,44 años
-924 - el paciente en rango mayor de edad tiene 32,45 años
-925 - el paciente en rango mayor de edad tiene 47,15 años
-926 - el paciente en rango mayor de edad tiene 50,7 años
-927 - el paciente en rango mayor de edad tiene 18,38 años
-928 - el paciente en rango mayor de edad tiene 53,96 años
+924 - el paciente en rango adulto tiene 32,45 años
+925 - el paciente en rango adulto tiene 47,15 años
+926 - el paciente en rango adulto tiene 50,7 años
+927 - el paciente en rango adulto tiene 18,38 años
+928 - el paciente en rango adulto tiene 53,96 años
 929 - el paciente en rango adulto mayor tiene 71,25 años
-930 - el paciente en rango menor de edad tiene 12,34 años
-931 - el paciente en rango mayor de edad tiene 35,7 años
-932 - el paciente en rango mayor de edad tiene 24,38 años
+930 - el paciente en rango niño tiene 12,34 años
+931 - el paciente en rango adulto tiene 35,7 años
+932 - el paciente en rango adulto tiene 24,38 años
 933 - el paciente en rango adulto mayor tiene 66,09 años
-934 - el paciente en rango menor de edad tiene 4,7 años
-935 - el paciente en rango menor de edad tiene 16,97 años
-936 - el paciente en rango mayor de edad tiene 55,48 años
-937 - el paciente en rango mayor de edad tiene 32,89 años
-938 - el paciente en rango menor de edad tiene 6,65 años
-939 - el paciente en rango mayor de edad tiene 56,66 años
-940 - el paciente en rango mayor de edad tiene 56,69 años
+934 - el paciente en rango niño tiene 4,7 años
+935 - el paciente en rango niño tiene 16,97 años
+936 - el paciente en rango adulto tiene 55,48 años
+937 - el paciente en rango adulto tiene 32,89 años
+938 - el paciente en rango niño tiene 6,65 años
+939 - el paciente en rango adulto tiene 56,66 años
+940 - el paciente en rango adulto tiene 56,69 años
 941 - el paciente en rango adulto mayor tiene 87,7 años
 942 - el paciente en rango adulto mayor tiene 63,88 años
 943 - el paciente en rango adulto mayor tiene 66,66 años
-944 - el paciente en rango mayor de edad tiene 21,0 años
+944 - el paciente en rango adulto tiene 21,0 años
 945 - el paciente en rango adulto mayor tiene 63,72 años
-946 - el paciente en rango menor de edad tiene 5,24 años
+946 - el paciente en rango niño tiene 5,24 años
 947 - el paciente en rango adulto mayor tiene 65,38 años
-948 - el paciente en rango menor de edad tiene 10,3 años
-949 - el paciente en rango mayor de edad tiene 31,21 años
+948 - el paciente en rango niño tiene 10,3 años
+949 - el paciente en rango adulto tiene 31,21 años
 950 - el paciente en rango adulto mayor tiene 68,91 años
-951 - el paciente en rango menor de edad tiene 0,55 años
-952 - el paciente en rango menor de edad tiene 2,2800000000000002 años
+951 - el paciente en rango niño tiene 0,55 años
+952 - el paciente en rango niño tiene 2,2800000000000002 años
 953 - el paciente en rango adulto mayor tiene 72,94 años
-954 - el paciente en rango mayor de edad tiene 56,64 años
+954 - el paciente en rango adulto tiene 56,64 años
 955 - el paciente en rango adulto mayor tiene 83,53 años
-956 - el paciente en rango mayor de edad tiene 52,44 años
+956 - el paciente en rango adulto tiene 52,44 años
 957 - el paciente en rango adulto mayor tiene 86,29 años
-958 - el paciente en rango menor de edad tiene 0,91 años
-959 - el paciente en rango mayor de edad tiene 33,36 años
-960 - el paciente en rango menor de edad tiene 6,2 años
+958 - el paciente en rango niño tiene 0,91 años
+959 - el paciente en rango adulto tiene 33,36 años
+960 - el paciente en rango niño tiene 6,2 años
 961 - el paciente en rango adulto mayor tiene 82,01 años
 962 - el paciente en rango adulto mayor tiene 64,48 años
 963 - el paciente en rango adulto mayor tiene 96,27 años
 964 - el paciente en rango adulto mayor tiene 73,28 años
-965 - el paciente en rango mayor de edad tiene 45,0 años
+965 - el paciente en rango adulto tiene 45,0 años
 966 - el paciente en rango adulto mayor tiene 69,58 años
 967 - el paciente en rango adulto mayor tiene 80,06 años
 968 - el paciente en rango adulto mayor tiene 69,76 años
-969 - el paciente en rango menor de edad tiene 8,72 años
-970 - el paciente en rango mayor de edad tiene 19,93 años
+969 - el paciente en rango niño tiene 8,72 años
+970 - el paciente en rango adulto tiene 19,93 años
 971 - el paciente en rango adulto mayor tiene 98,4 años
-972 - el paciente en rango menor de edad tiene 11,65 años
-973 - el paciente en rango mayor de edad tiene 49,0 años
-974 - el paciente en rango mayor de edad tiene 21,75 años
-975 - el paciente en rango mayor de edad tiene 24,85 años
-976 - el paciente en rango menor de edad tiene 15,05 años
-977 - el paciente en rango mayor de edad tiene 31,84 años
-978 - el paciente en rango mayor de edad tiene 54,25 años
-979 - el paciente en rango menor de edad tiene 2,49 años
-980 - el paciente en rango mayor de edad tiene 49,37 años
-981 - el paciente en rango mayor de edad tiene 49,79 años
-982 - el paciente en rango mayor de edad tiene 50,89 años
+972 - el paciente en rango niño tiene 11,65 años
+973 - el paciente en rango adulto tiene 49,0 años
+974 - el paciente en rango adulto tiene 21,75 años
+975 - el paciente en rango adulto tiene 24,85 años
+976 - el paciente en rango niño tiene 15,05 años
+977 - el paciente en rango adulto tiene 31,84 años
+978 - el paciente en rango adulto tiene 54,25 años
+979 - el paciente en rango niño tiene 2,49 años
+980 - el paciente en rango adulto tiene 49,37 años
+981 - el paciente en rango adulto tiene 49,79 años
+982 - el paciente en rango adulto tiene 50,89 años
 983 - el paciente en rango adulto mayor tiene 68,38 años
-984 - el paciente en rango menor de edad tiene 9,77 años
+984 - el paciente en rango niño tiene 9,77 años
 985 - el paciente en rango adulto mayor tiene 63,25 años
-986 - el paciente en rango mayor de edad tiene 22,52 años
-987 - el paciente en rango mayor de edad tiene 42,64 años
-988 - el paciente en rango menor de edad tiene 12,96 años
-989 - el paciente en rango menor de edad tiene 13,5 años
+986 - el paciente en rango adulto tiene 22,52 años
+987 - el paciente en rango adulto tiene 42,64 años
+988 - el paciente en rango niño tiene 12,96 años
+989 - el paciente en rango niño tiene 13,5 años
 990 - el paciente en rango adulto mayor tiene 75,16 años
-991 - el paciente en rango mayor de edad tiene 45,21 años
+991 - el paciente en rango adulto tiene 45,21 años
 992 - el paciente en rango adulto mayor tiene 87,84 años
 993 - el paciente en rango adulto mayor tiene 68,97 años
 994 - el paciente en rango adulto mayor tiene 66,74 años
-995 - el paciente en rango mayor de edad tiene 25,26 años
-996 - el paciente en rango mayor de edad tiene 53,56 años
-997 - el paciente en rango menor de edad tiene 10,39 años
-998 - el paciente en rango menor de edad tiene 3,8 años
-999 - el paciente en rango mayor de edad tiene 56,62 años
+995 - el paciente en rango adulto tiene 25,26 años
+996 - el paciente en rango adulto tiene 53,56 años
+997 - el paciente en rango niño tiene 10,39 años
+998 - el paciente en rango niño tiene 3,8 años
+999 - el paciente en rango adulto tiene 56,62 años
 1000 - el paciente en rango adulto mayor tiene 91,8 años
-1001 - el paciente en rango mayor de edad tiene 55,38 años
+1001 - el paciente en rango adulto tiene 55,38 años
 1002 - el paciente en rango adulto mayor tiene 90,38 años
-1003 - el paciente en rango menor de edad tiene 14,36 años
-1004 - el paciente en rango mayor de edad tiene 33,51 años
-1005 - el paciente en rango mayor de edad tiene 51,73 años
-1006 - el paciente en rango mayor de edad tiene 30,87 años
+1003 - el paciente en rango niño tiene 14,36 años
+1004 - el paciente en rango adulto tiene 33,51 años
+1005 - el paciente en rango adulto tiene 51,73 años
+1006 - el paciente en rango adulto tiene 30,87 años
 1007 - el paciente en rango adulto mayor tiene 69,08 años
-1008 - el paciente en rango mayor de edad tiene 41,4 años
-1009 - el paciente en rango mayor de edad tiene 28,32 años
-1010 - el paciente en rango mayor de edad tiene 44,82 años
+1008 - el paciente en rango adulto tiene 41,4 años
+1009 - el paciente en rango adulto tiene 28,32 años
+1010 - el paciente en rango adulto tiene 44,82 años
 1011 - el paciente en rango adulto mayor tiene 79,18 años
-1012 - el paciente en rango menor de edad tiene 3,04 años
-1013 - el paciente en rango menor de edad tiene 3,16 años
+1012 - el paciente en rango niño tiene 3,04 años
+1013 - el paciente en rango niño tiene 3,16 años
 1014 - el paciente en rango adulto mayor tiene 96,11 años
-1015 - el paciente en rango mayor de edad tiene 45,6 años
-1016 - el paciente en rango mayor de edad tiene 41,71 años
+1015 - el paciente en rango adulto tiene 45,6 años
+1016 - el paciente en rango adulto tiene 41,71 años
 1017 - el paciente en rango adulto mayor tiene 83,15 años
-1018 - el paciente en rango mayor de edad tiene 54,04 años
+1018 - el paciente en rango adulto tiene 54,04 años
 1019 - el paciente en rango adulto mayor tiene 91,81 años
 1020 - el paciente en rango adulto mayor tiene 80,95 años
-1021 - el paciente en rango mayor de edad tiene 34,23 años
-1022 - el paciente en rango menor de edad tiene 15,12 años
-1023 - el paciente en rango menor de edad tiene 15,09 años
+1021 - el paciente en rango adulto tiene 34,23 años
+1022 - el paciente en rango niño tiene 15,12 años
+1023 - el paciente en rango niño tiene 15,09 años
 1024 - el paciente en rango adulto mayor tiene 71,86 años
-1025 - el paciente en rango mayor de edad tiene 23,91 años
-1026 - el paciente en rango mayor de edad tiene 54,13 años
+1025 - el paciente en rango adulto tiene 23,91 años
+1026 - el paciente en rango adulto tiene 54,13 años
