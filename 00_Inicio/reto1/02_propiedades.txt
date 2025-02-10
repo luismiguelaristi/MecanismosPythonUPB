@@ -1,5 +1,3 @@
-área de las propiedades registradas en la compañía de bienes raíces
-TAREA: calcular el promedio para las entradas marcadas con: finca
 0 - disponible para venta apartamento con área 64,85 metros cuadrados
 1 - disponible para venta casa con área 253,33 metros cuadrados
 2 - disponible para venta finca con área 7744,6 metros cuadrados
